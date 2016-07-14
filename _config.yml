@@ -1,0 +1,10 @@
+title: Kit's Blog - Rival Rockets
+description: The ramblings of self-declared winners
+email: kit.roed@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://rivalrockets.com"
+twitter_username: kitroed
+github_username:  kitroed
+
+# Build settings
+markdown: kramdown
