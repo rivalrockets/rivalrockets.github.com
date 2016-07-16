@@ -13,4 +13,4 @@ dsq_thread_id:
 categories:
   - Humor
 ---
-![wtf](http://img34.imageshack.us/img34/2874/blizzardwtf.jpg)
+![wtf](/content/2009/10/blizzardwtf.jpg)
