@@ -50,6 +50,6 @@ I’ve never played this game, but it looks intriguing.&#160;&#160; Looking at t
 
 <http://en.wikipedia.org/wiki/Heroscape>
 
-[<img style="border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px" border="0" alt="800px-HeroscapeGame" src="http://rivalrockets.com/blog/wp-content/uploads/2010/07/800pxHeroscapeGame_thumb.jpg" width="244" height="184" />](http://rivalrockets.com/blog/wp-content/uploads/2010/07/800pxHeroscapeGame.jpg) 
+[<img style="border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px" border="0" alt="800px-HeroscapeGame" src="/content/2010/07/800pxHeroscapeGame_thumb.jpg" width="244" height="184" />](/content/2010/07/800pxHeroscapeGame.jpg) 
 
 I haven’t played this game either.&#160; I really like the idea of an RPG/D&D style board game.&#160;&#160; I played one as a teenager called [Hero Quest](http://en.wikipedia.org/wiki/Hero_Quest) but it is out of print, and full versions now go for over a hundred bucks!&#160;&#160; One thing that might not be so great about it is that there seems to be a lot of “add-ons” for this game, which screams money pit.&#160;&#160; I did see that you can buy a “master set” for under $40, and if this could provide several evenings of entertainment it may be worth it.&#160;&#160;

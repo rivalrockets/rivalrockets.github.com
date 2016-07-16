@@ -15,4 +15,4 @@ categories:
 ---
 I&#8217;ll believe Pally&#8217;s can PvP.  Until then&#8230;
 
-[<img class="alignnone size-medium wp-image-97" src="http://rivalrockets.com/blog/wp-content/uploads/2008/04/sheep_wings1-300x242.jpg" alt="" width="300" height="242" />](http://rivalrockets.com/blog/wp-content/uploads/2008/04/sheep_wings1.jpg)
+[<img class="alignnone size-medium wp-image-97" src="/content/2008/04/sheep_wings1-300x242.jpg" alt="" width="300" height="242" />](/content/2008/04/sheep_wings1.jpg)

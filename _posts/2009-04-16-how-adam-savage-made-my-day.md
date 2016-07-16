@@ -22,11 +22,11 @@ Having searched the various <a href="http://lifehacker.com/372605/best-digital-p
 
 Here&#8217;s where Adam Savage comes in.  Although my luck in the past has been more hit than miss with using the &#8220;@&#8221; message on Twitter, the prospect of getting to the bottom of this mystery was enough for me to give it a try by asking the man himself:
 
-[<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" src="http://rivalrockets.com/blog/wp-content/uploads/2009/04/image1.png" border="0" alt="" width="561" height="169" />](http://twitter.com/kitroed/status/1476501801)
+[<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" src="/content/2009/04/image1.png" border="0" alt="" width="561" height="169" />](http://twitter.com/kitroed/status/1476501801)
 
 and much to my surprise, the humble Adam Savage did me the honor of not only answering my question, but explaining his selection as well:
 
-[<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" src="http://rivalrockets.com/blog/wp-content/uploads/2009/04/donttrythis-reply1.png" border="0" alt="donttrythis_reply" width="620" height="342" />](http://twitter.com/donttrythis/status/1476935105)
+[<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" src="/content/2009/04/donttrythis-reply1.png" border="0" alt="donttrythis_reply" width="620" height="342" />](http://twitter.com/donttrythis/status/1476935105)
 
 Without going into the details of how Twitter has changed how I view the availability of otherwise unreachable people&#8230;
 

@@ -17,4 +17,4 @@ A staple in every nerd&#8217;s diet, I&#8217;m off to the Minnesota Renaissance 
 
 _Update&#160; This pic summarizes my festival experience:_
 
-<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="ren_fest_pic" border="0" alt="ren_fest_pic" src="http://rivalrockets.com/blog/wp-content/uploads/2009/10/ren_fest_pic.jpg" width="644" height="311" />
+<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="ren_fest_pic" border="0" alt="ren_fest_pic" src="/content/2009/10/ren_fest_pic.jpg" width="644" height="311" />

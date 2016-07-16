@@ -25,7 +25,7 @@ Last weekend I had just received all the parts to complete what I felt was a pre
 Okay, so now for some pictures:
 
 <div id="attachment_431" class="wp-caption alignnone" style="width: 810px">
-  <img class="size-full wp-image-431" title="msi-netserver" src="http://rivalrockets.com/blog/wp-content/uploads/2009/03/msi-netserver.jpg" alt="msi-netserver" width="800" height="594" />
+  <img class="size-full wp-image-431" title="msi-netserver" src="/content/2009/03/msi-netserver.jpg" alt="msi-netserver" width="800" height="594" />
   
   <p class="wp-caption-text">
     Here we see that the machine is quite an exercise in minimalism.
@@ -33,7 +33,7 @@ Okay, so now for some pictures:
 </div>
 
 <div id="attachment_432" class="wp-caption alignnone" style="width: 810px">
-  <img class="size-full wp-image-432" title="drive_bay" src="http://rivalrockets.com/blog/wp-content/uploads/2009/03/drive_bay.jpg" alt="drive_bay" width="800" height="542" />
+  <img class="size-full wp-image-432" title="drive_bay" src="/content/2009/03/drive_bay.jpg" alt="drive_bay" width="800" height="542" />
   
   <p class="wp-caption-text">
     Rather than waste what few bay expansion options I had, I opted to install this SATA hot-swap bay in place of a seldom-used CD drive for future storage/backup needs!
@@ -41,7 +41,7 @@ Okay, so now for some pictures:
 </div>
 
 <div id="attachment_433" class="wp-caption alignnone" style="width: 810px">
-  <img class="size-full wp-image-433" title="msi-netserver-front" src="http://rivalrockets.com/blog/wp-content/uploads/2009/03/msi-netserver-front.jpg" alt="msi-netserver-front" width="800" height="314" />
+  <img class="size-full wp-image-433" title="msi-netserver-front" src="/content/2009/03/msi-netserver-front.jpg" alt="msi-netserver-front" width="800" height="314" />
   
   <p class="wp-caption-text">
     Here is a shot of the front of the "mini-server" after the SATA bay was installed. Note the presence of the multi-card reader...

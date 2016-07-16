@@ -22,11 +22,11 @@ Here&#8217;s some before/after images showing my improvement after being enlight
 
 _**Before:**_
 
-<img class="alignnone size-full wp-image-484" title="Before Tutorial" src="http://rivalrockets.com/blog/wp-content/uploads/2009/08/NGC-AfterLAN-in-progress-copy.jpg" alt="Before Tutorial" width="1020" height="1006" />
+<img class="alignnone size-full wp-image-484" title="Before Tutorial" src="/content/2009/08/NGC-AfterLAN-in-progress-copy.jpg" alt="Before Tutorial" width="1020" height="1006" />
 
 _**After:**_
 
-<img class="alignnone size-full wp-image-491" title="Fauntleroy-Ranvier-Refsheet" src="http://rivalrockets.com/blog/wp-content/uploads/2009/08/Fauntleroy-Ranvier-Refsheet1.jpg" alt="Fauntleroy-Ranvier-Refsheet" />
+<img class="alignnone size-full wp-image-491" title="Fauntleroy-Ranvier-Refsheet" src="/content/2009/08/Fauntleroy-Ranvier-Refsheet1.jpg" alt="Fauntleroy-Ranvier-Refsheet" />
 
 If one looks closely, the color blending, highlights,  and shading are of considerably higher quality!
 

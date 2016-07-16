@@ -17,4 +17,4 @@ Some of you know that last year I came to be an acquaintance of Lauren Faust, wi
 
 I decided to draw some fanart for her, and last night I shopped a promotional poster of sorts for Addy.  I think I&#8217;m starting to get the hang of photoshop at last.
 
-[<img class="alignnone size-medium wp-image-116" title="Addy" src="http://rivalrockets.com/blog/wp-content/uploads/2008/05/addy-copy-400x363.jpg" alt="\" width="400" height="363" />](http://rivalrockets.com/blog/wp-content/uploads/2008/05/addy-copy.jpg)
+[<img class="alignnone size-medium wp-image-116" title="Addy" src="/content/2008/05/addy-copy-400x363.jpg" alt="\" width="400" height="363" />](/content/2008/05/addy-copy.jpg)

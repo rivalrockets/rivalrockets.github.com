@@ -11,4 +11,4 @@ aktt_notify_twitter:
 categories:
   - Web
 ---
-<img class="aligncenter size-full wp-image-412" src="http://rivalrockets.com/blog/wp-content/uploads/2009/01/pc_game_to_hell.jpg" alt="pc_game_to_hell" />
+<img class="aligncenter size-full wp-image-412" src="/content/2009/01/pc_game_to_hell.jpg" alt="pc_game_to_hell" />

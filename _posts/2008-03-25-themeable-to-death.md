@@ -15,19 +15,19 @@ categories:
 ---
 <p align="left">
   <p align="left">
-    <img src="http://rivalrockets.com/blog/wp-content/uploads/2008/03/screenshot2.png" alt="screenshot2.png" width="225" height="168" />
+    <img src="/content/2008/03/screenshot2.png" alt="screenshot2.png" width="225" height="168" />
   </p>
   
   <p align="left">
-    <img src="http://rivalrockets.com/blog/wp-content/uploads/2008/03/screenshot.png" alt="screenshot.png" width="206" height="165" />
+    <img src="/content/2008/03/screenshot.png" alt="screenshot.png" width="206" height="165" />
   </p>
   
   <p align="left">
-    <img src="http://rivalrockets.com/blog/wp-content/uploads/2008/03/screenshot1.png" alt="screenshot1.png" width="216" height="162" />
+    <img src="/content/2008/03/screenshot1.png" alt="screenshot1.png" width="216" height="162" />
   </p>
   
   <p align="left">
-    <img src="http://rivalrockets.com/blog/wp-content/uploads/2008/03/screenshot3.png" alt="screenshot3.png" width="216" height="162" align="left" />
+    <img src="/content/2008/03/screenshot3.png" alt="screenshot3.png" width="216" height="162" align="left" />
   </p>
   
   <p align="left">

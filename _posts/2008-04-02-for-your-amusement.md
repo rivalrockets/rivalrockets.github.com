@@ -11,4 +11,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<img class="aligncenter size-full wp-image-78" title="Caturday fodder: My cat put her toy under the couch and is helping me get it out." src="http://rivalrockets.com/blog/wp-content/uploads/2008/04/pc250052.jpg" alt="Caturday fodder: My cat put her toy under the couch and is helping me get it out." width="428" height="572" />
+<img class="aligncenter size-full wp-image-78" title="Caturday fodder: My cat put her toy under the couch and is helping me get it out." src="/content/2008/04/pc250052.jpg" alt="Caturday fodder: My cat put her toy under the couch and is helping me get it out." width="428" height="572" />

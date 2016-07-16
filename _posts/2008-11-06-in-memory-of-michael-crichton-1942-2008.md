@@ -28,5 +28,5 @@ A great writer, a doctor, and an inspiration to people everywhere.
 Here&#8217;s to you, Michael.  Rest in peace.
 
 <p style="text-align: center;">
-  <img class="size-medium wp-image-345 aligncenter" src="http://rivalrockets.com/blog/wp-content/uploads/2008/11/mcrichton2.jpg" alt="" width="178" height="240" />
+  <img class="size-medium wp-image-345 aligncenter" src="/content/2008/11/mcrichton2.jpg" alt="" width="178" height="240" />
 </p>

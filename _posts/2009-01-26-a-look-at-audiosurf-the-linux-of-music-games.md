@@ -27,24 +27,24 @@ Audiosurf lets you "ride your music" in two main ways.&#160; The first is common
 
 This road dynamic can be best visualized by the chart presented upon each selection of music.
 
-<img class="alignnone size-medium wp-image-401" title="audiosurf-song-display" alt="Notice that the song starts slow, and builds up." src="http://rivalrockets.com/blog/wp-content/uploads/2009/01/audiosurf-song-display1.jpg" />
+<img class="alignnone size-medium wp-image-401" title="audiosurf-song-display" alt="Notice that the song starts slow, and builds up." src="/content/2009/01/audiosurf-song-display1.jpg" />
 
 There are several modes and strategies to _Audiosurf_.&#160; Here&#8217;s a brief look at some modes:
 
 **Pusher Mode:** This mode functions like most other modes of play, using the multicolored blocks.&#160; The special thing about this mode is that by right-clicking and/or left-clicking, you can "push" blocks as you hit them into an adjacent row of slots.
 
-<img class="alignnone size-full wp-image-394" title="Audiosurf: Pusher Mode" alt="Audiosurf: Pusher Mode" src="http://rivalrockets.com/blog/wp-content/uploads/2009/01/audiosurf-pusher.jpg" />
+<img class="alignnone size-full wp-image-394" title="Audiosurf: Pusher Mode" alt="Audiosurf: Pusher Mode" src="/content/2009/01/audiosurf-pusher.jpg" />
 
 **Vegas Mode:** In this mode, you cannot direct blocks as you please, but if your slots are filling up with no match in sight, you can move onto the shoulder and wait for a channeled effect that shuffles the blocks around, increasing their chance to match up.
 
-<img class="alignnone size-full wp-image-402" title="Vegas-mode" alt="Vegas-mode" src="http://rivalrockets.com/blog/wp-content/uploads/2009/01/vega-mode.jpg" />
+<img class="alignnone size-full wp-image-402" title="Vegas-mode" alt="Vegas-mode" src="/content/2009/01/vega-mode.jpg" />
 
 **Eraser Mode:** By right-clicking**&#160;**in this mode,&#160; Your car will break through blocks, keeping them from filling in your slots when they aren&#8217;t wanted. Note the parallelogram shape that appears above the car while "erasing" blocks.
 
-<img class="alignnone size-medium wp-image-403" title="Eraser-mode" alt="Eraser-mode" src="http://rivalrockets.com/blog/wp-content/uploads/2009/01/erasermode.jpg" />
+<img class="alignnone size-medium wp-image-403" title="Eraser-mode" alt="Eraser-mode" src="/content/2009/01/erasermode.jpg" />
 
 **Mono Mode:** This one is the most simple of the modes of play, and is my personal favorite.&#160; In this mode there are only two types of blocks: gray blocks and colored blocks.&#160; Colored blocks change color with the road, and are all worth the same points.&#160; Gray blocks are worth no points, and stack up in your slots for lengthy periods of time until disappearing automatically.&#160; However in the higher difficulty setting, they do not and you must remove them by right clicking, docking you seven hundred seventy-seven points.&#160; I enjoy this mode for its simple, yet fast-paced gameplay.
 
-<img class="alignnone size-full wp-image-404" title="Mono-mode." alt="Mono-mode." src="http://rivalrockets.com/blog/wp-content/uploads/2009/01/audiosurf-monopro.jpg" />
+<img class="alignnone size-full wp-image-404" title="Mono-mode." alt="Mono-mode." src="/content/2009/01/audiosurf-monopro.jpg" />
 
 This is only a brief and fleeting glance at _Audiosurf._&#160; There are far more modes of play, global scoreboards, and much much more.&#160; Believe me, this game is _WORTH_ the ten bucks.

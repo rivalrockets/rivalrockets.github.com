@@ -14,4 +14,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<img class="alignnone size-full wp-image-226" title="freezepop-ftw" src="http://rivalrockets.com/blog/wp-content/uploads/2008/08/freezepop-ftw.png" alt="" width="558" height="319" />
+<img class="alignnone size-full wp-image-226" title="freezepop-ftw" src="/content/2008/08/freezepop-ftw.png" alt="" width="558" height="319" />

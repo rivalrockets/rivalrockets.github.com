@@ -44,4 +44,4 @@ This will gather all of the necessary NX server components and dependencies incl
 
 On a your client machine, point the [freely available client](http://www.nomachine.com/download-client-windows.php) from NoMachine to the new Neatx server’s address, accept the key and presto!  You now have a slick remote desktop solution for Linux, congratulations!
 
-[<img style="display: inline;" title="Windows with remote Linux.  Believe it!" src="http://rivalrockets.com/blog/wp-content/uploads/2010/04/neatxonnomachine_thumb.png" alt="Windows with remote Linux.  Believe it!" width="640" height="521" />](http://rivalrockets.com/blog/wp-content/uploads/2010/04/neatxonnomachine.png)
+[<img style="display: inline;" title="Windows with remote Linux.  Believe it!" src="/content/2010/04/neatxonnomachine_thumb.png" alt="Windows with remote Linux.  Believe it!" width="640" height="521" />](/content/2010/04/neatxonnomachine.png)

@@ -23,4 +23,4 @@ The torrent of antlions destroyed the Alembic Arena; tearing through the concret
 
 &#8230;The arena must be &#8220;cleansed&#8221; of all life.
   
-[![alembic-arena.jpg](http://rivalrockets.com/blog/wp-content/uploads/2008/03/alembic-arena.thumbnail.jpg)](http://rivalrockets.com/blog/wp-content/uploads/2008/03/alembic-arena.jpg "alembic-arena.jpg")
+[![alembic-arena.jpg](/content/2008/03/alembic-arena.thumbnail.jpg)](/content/2008/03/alembic-arena.jpg "alembic-arena.jpg")

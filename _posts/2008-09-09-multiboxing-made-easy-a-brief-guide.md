@@ -24,7 +24,7 @@ categories:
   - WoW
 ---
 <div id="attachment_243" class="wp-caption alignnone" style="width: 410px">
-  <a href="http://rivalrockets.com/blog/wp-content/uploads/2008/09/multibox-sm.png"><img class="size-medium wp-image-243" title="Multibox Screenshot" src="http://rivalrockets.com/blog/wp-content/uploads/2008/09/multibox-sm-400x250.png" alt="" width="400" height="250" /></a>
+  <a href="/content/2008/09/multibox-sm.png"><img class="size-medium wp-image-243" title="Multibox Screenshot" src="/content/2008/09/multibox-sm-400x250.png" alt="" width="400" height="250" /></a>
   
   <p class="wp-caption-text">
     The simplest way to run two instances of WoW
@@ -40,11 +40,11 @@ I had always precieved that there was a certain level of complexity to operating
 
 Now the final ingredient to this recipe is my trusty **1st-generation G15 keyboard**:
 
-<img class="alignnone size-full wp-image-164" title="g15_550px" src="http://rivalrockets.com/blog/wp-content/uploads/2008/06/g15_550px.jpg" alt="macro to your heart\'s content..." width="500" height="251" />
+<img class="alignnone size-full wp-image-164" title="g15_550px" src="/content/2008/06/g15_550px.jpg" alt="macro to your heart\'s content..." width="500" height="251" />
 
 Equipped with a _gratuitous_ 18(!) macro keys (which was later revised to a manageable 6 in the second revision), setting ready-made commands up is a snap:
 
-[<img class="alignnone size-thumbnail wp-image-163" style="vertical-align: baseline;" title="g15panel" src="http://rivalrockets.com/blog/wp-content/uploads/2008/06/g15panel-180x180.png" alt="" width="180" height="180" />](http://rivalrockets.com/blog/wp-content/uploads/2008/06/g15panel.png)
+[<img class="alignnone size-thumbnail wp-image-163" style="vertical-align: baseline;" title="g15panel" src="/content/2008/06/g15panel-180x180.png" alt="" width="180" height="180" />](/content/2008/06/g15panel.png)
 
 For this demonstration, my &#8220;slave&#8221; account is my wife&#8217;s level 62 priest who makes a good heal-bot <g>
 

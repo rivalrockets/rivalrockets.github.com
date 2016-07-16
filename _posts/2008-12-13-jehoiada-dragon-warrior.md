@@ -23,8 +23,8 @@ She had quite the treasure for me as well, netting 159g, several epics, and an 1
 
 Somebody&#8217;s mad!
 
-[<img class="alignnone size-medium wp-image-373" src="http://rivalrockets.com/blog/wp-content/uploads/2008/12/wowscrnshot_121108_232811-400x300.jpg" alt="" width="400" height="300" />](http://rivalrockets.com/blog/wp-content/uploads/2008/12/wowscrnshot_121108_232811.jpg)
+[<img class="alignnone size-medium wp-image-373" src="/content/2008/12/wowscrnshot_121108_232811-400x300.jpg" alt="" width="400" height="300" />](/content/2008/12/wowscrnshot_121108_232811.jpg)
 
 She&#8217;s down
 
-[<img class="alignnone size-medium wp-image-372" src="http://rivalrockets.com/blog/wp-content/uploads/2008/12/wowscrnshot_121208_001652-400x300.jpg" alt="" width="400" height="300" />](http://rivalrockets.com/blog/wp-content/uploads/2008/12/wowscrnshot_121208_001652.jpg)
+[<img class="alignnone size-medium wp-image-372" src="/content/2008/12/wowscrnshot_121208_001652-400x300.jpg" alt="" width="400" height="300" />](/content/2008/12/wowscrnshot_121208_001652.jpg)

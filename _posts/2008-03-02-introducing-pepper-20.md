@@ -12,8 +12,8 @@ categories:
   - Gaming
   - WoW
 ---
-[](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/pepper2.jpg "Pepper 2.0")
+[](/content/2008/03/pepper2.jpg "Pepper 2.0")
 
 <p style="text-align: center">
-  <a href="http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/pepper2.jpg" title="Pepper 2.0"><img src="http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/pepper2.jpg" alt="Pepper 2.0" height="329" width="439" /></a>
+  <a href="/content/2008/03/pepper2.jpg" title="Pepper 2.0"><img src="/content/2008/03/pepper2.jpg" alt="Pepper 2.0" height="329" width="439" /></a>
 </p>

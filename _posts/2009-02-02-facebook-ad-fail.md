@@ -13,6 +13,6 @@ dsq_thread_id:
 categories:
   - Humor
 ---
-<img class="alignnone size-full wp-image-414" title="ad-fail" src="http://rivalrockets.com/blog/wp-content/uploads/2009/02/ad-fail.jpg" alt="ad-fail" width="278" height="354" />
+<img class="alignnone size-full wp-image-414" title="ad-fail" src="/content/2009/02/ad-fail.jpg" alt="ad-fail" width="278" height="354" />
 
 Who can honestly tell me that picture isn&#8217;t from a drug bust.

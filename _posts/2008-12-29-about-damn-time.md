@@ -11,4 +11,4 @@ aktt_notify_twitter:
 categories:
   - Uncategorized
 ---
-<img src="http://rivalrockets.com/blog/wp-content/uploads/2008/12/epic_riding_woot.jpg" alt="epic_riding_woot" width="382" height="147" class="alignnone size-full wp-image-383" />
+<img src="/content/2008/12/epic_riding_woot.jpg" alt="epic_riding_woot" width="382" height="147" class="alignnone size-full wp-image-383" />

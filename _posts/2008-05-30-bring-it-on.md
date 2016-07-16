@@ -14,4 +14,4 @@ categories:
 ---
 Murmur ain&#8217;t got nothing on me
 
-[<img class="alignnone size-medium wp-image-128" src="http://rivalrockets.com/blog/wp-content/uploads/2008/05/bring_it_on-400x300.jpg" alt="" width="400" height="300" />](http://rivalrockets.com/blog/wp-content/uploads/2008/05/bring_it_on.jpg)
+[<img class="alignnone size-medium wp-image-128" src="/content/2008/05/bring_it_on-400x300.jpg" alt="" width="400" height="300" />](/content/2008/05/bring_it_on.jpg)

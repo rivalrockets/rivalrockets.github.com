@@ -19,9 +19,9 @@ This means a lot, to both of us!
 Heres to you Matt!
 
 <p align="left">
-  <a href="http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030508_230212.jpg" title="The purchase"><img src="http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030508_230212.thumbnail.jpg" alt="The purchase" /></a>
+  <a href="/content/2008/03/wowscrnshot_030508_230212.jpg" title="The purchase"><img src="/content/2008/03/wowscrnshot_030508_230212.thumbnail.jpg" alt="The purchase" /></a>
 </p>
 
-[![Photo op.](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030508_230256.thumbnail.jpg)](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030508_230256.jpg "Photo op.")
+[![Photo op.](/content/2008/03/wowscrnshot_030508_230256.thumbnail.jpg)](/content/2008/03/wowscrnshot_030508_230256.jpg "Photo op.")
 
-[![First ride](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030508_230503.thumbnail.jpg)](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030508_230503.jpg "First ride")
+[![First ride](/content/2008/03/wowscrnshot_030508_230503.thumbnail.jpg)](/content/2008/03/wowscrnshot_030508_230503.jpg "First ride")

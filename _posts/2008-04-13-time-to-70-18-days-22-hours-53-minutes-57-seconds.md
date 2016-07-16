@@ -14,7 +14,7 @@ categories:
 ---
 I used to see guides that would indicate 10 days to 70, but I soon realized that was played time. I started playing on December 28, and leveled on April 11&#8230; Thats 106 days&#8230; or approx 4 hours of played time per day&#8230; I didn&#8217;t start out with the goal of leveling to 70 by a certain date, it just sort of happened. While it is nice to achieve this milestone, that is a whole heap of time. I can honestly say WOW is a game like no other I&#8217;ve played. It feels like I&#8217;ve played three games already, and there is much more yet to come. My expectations were much different three months ago then they are now. I thought I would take some time and share some of those thoughts&#8230;
 
-[<img class="alignleft alignnone size-medium wp-image-88" style="float: left; margin-left: 10px; margin-right: 10px; margin-top: 3px; margin-bottom: 3px;" src="http://rivalrockets.com/blog/wp-content/uploads/2008/04/jeho_70-155x300.jpg" alt="" width="155" height="300" />](http://rivalrockets.com/blog/wp-content/uploads/2008/04/jeho_70.jpg)
+[<img class="alignleft alignnone size-medium wp-image-88" style="float: left; margin-left: 10px; margin-right: 10px; margin-top: 3px; margin-bottom: 3px;" src="/content/2008/04/jeho_70-155x300.jpg" alt="" width="155" height="300" />](/content/2008/04/jeho_70.jpg)
 
 **On being a Paladin&#8230;**
 

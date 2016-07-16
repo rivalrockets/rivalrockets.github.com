@@ -16,7 +16,7 @@ categories:
   - Art
   - Gaming
 ---
-<img class="alignleft size-medium wp-image-113" title="race_car" src="http://rivalrockets.com/blog/wp-content/uploads/2008/05/race_car-400x215.jpg" alt="" width="400" height="215" />The _one_ game that could make me cry about not having the gratuitously expensive PS3 is Gran Turismo 5
+<img class="alignleft size-medium wp-image-113" title="race_car" src="/content/2008/05/race_car-400x215.jpg" alt="" width="400" height="215" />The _one_ game that could make me cry about not having the gratuitously expensive PS3 is Gran Turismo 5
 
 [Ars talks](http://arstechnica.com/reviews/games/gt5-prologue-review.ars) about the recently relased &#8220;demo&#8221; of GT5 titled _Gran Turismo 5: Prologue_
 

@@ -17,7 +17,7 @@ categories:
 I won&#8217;t call it an impulse buy, but it certainly wasn&#8217;t a completely cautious purchase—that&#8217;s for sure. Today I ordered the absolutely brand-new (just flagged as in stock <a href="http://www.amazon.com/Logitech-920-000594-diNovo-Mini/dp/B0011FOOI2/ref=pd_bbs_sr_1?ie=UTF8&s=electronics&qid=1205465167&sr=8-1" target="_blank">yesterday</a>)  <a href="http://www.logitech.com/index.cfm/keyboards/keyboard/devices/3848&cl=us,en" target="_blank">DiNovo Mini.</a>
 
 <p align="center">
-  <img src="http://rivalrockets.com/blog/wp-content/uploads/2008/03/41-ljcrkjl_aa280_.jpg" alt="New toy." />
+  <img src="/content/2008/03/41-ljcrkjl_aa280_.jpg" alt="New toy." />
 </p>
 
 <p align="left">
@@ -25,7 +25,7 @@ I won&#8217;t call it an impulse buy, but it certainly wasn&#8217;t a completely
 </p>
 
 <p align="center">
-  <a title="Airwalkerâ€™s microATX case" rel="attachment wp-att-48" href="http://rivalrockets.com/blog/?attachment_id=48"><img src="http://rivalrockets.com/blog/wp-content/uploads/2008/03/airwalker_build.thumbnail.jpg" alt="Airwalkerâ€™s microATX case" /></a>
+  <a title="Airwalkerâ€™s microATX case" rel="attachment wp-att-48"><img src="/content/2008/03/airwalker_build.jpg" alt="Airwalkerâ€™s microATX case" /></a>
 </p>
 
 <p align="left">

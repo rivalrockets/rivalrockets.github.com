@@ -11,4 +11,4 @@ categories:
 ---
 The baby lady had a baby and named it Suki:
 
-[<img class="alignnone size-medium wp-image-82" title="Suki Sleeping" src="http://rivalrockets.com/blog/wp-content/uploads/2008/04/n647920940_1099223_5608-225x300.jpg" alt="" width="225" height="300" />](http://rivalrockets.com/blog/wp-content/uploads/2008/04/n647920940_1099223_5608.jpg)[<img class="alignnone size-medium wp-image-83" title="Suki Sitting" src="http://rivalrockets.com/blog/wp-content/uploads/2008/04/suki-web-252x300.jpg" alt="" width="252" height="300" />](http://rivalrockets.com/blog/wp-content/uploads/2008/04/suki-web.jpg)
+[<img class="alignnone size-medium wp-image-82" title="Suki Sleeping" src="/content/2008/04/n647920940_1099223_5608-225x300.jpg" alt="" width="225" height="300" />](/content/2008/04/n647920940_1099223_5608.jpg)[<img class="alignnone size-medium wp-image-83" title="Suki Sitting" src="/content/2008/04/suki-web-252x300.jpg" alt="" width="252" height="300" />](/content/2008/04/suki-web.jpg)

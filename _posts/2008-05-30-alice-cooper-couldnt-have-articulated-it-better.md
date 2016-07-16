@@ -25,4 +25,4 @@ On a final note, I really really really reeeeeeaaalllllyyyy want to read the las
 
 I proclaim this the SUMMER OF GEORGE!!!
 
-[<img class="aligncenter size-medium wp-image-132" title="I\'m going to read a book from beginning to end...in that order!" src="http://rivalrockets.com/blog/wp-content/uploads/2008/05/george-400x300.jpg" alt="I\'m going to read a book from beginning to end...in that order!" width="400" height="300" />](http://rivalrockets.com/blog/wp-content/uploads/2008/05/george.jpg)
+[<img class="aligncenter size-medium wp-image-132" title="I\'m going to read a book from beginning to end...in that order!" src="/content/2008/05/george-400x300.jpg" alt="I\'m going to read a book from beginning to end...in that order!" width="400" height="300" />](/content/2008/05/george.jpg)

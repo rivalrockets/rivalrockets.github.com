@@ -13,10 +13,10 @@ categories:
   - Gaming
   - WoW
 ---
-[](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/justice.JPG "justice.JPG")
+[](/content/2008/03/justice.JPG "justice.JPG")
 
 <p style="text-align: center">
-  <a href="http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/justice.JPG" title="justice.JPG"><img src="http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/justice.JPG" alt="justice.JPG" height="264" width="428" /></a>
+  <a href="/content/2008/03/justice.JPG" title="justice.JPG"><img src="/content/2008/03/justice.JPG" alt="justice.JPG" height="264" width="428" /></a>
 </p>
 
 You can never be too tough on crime&#8230;

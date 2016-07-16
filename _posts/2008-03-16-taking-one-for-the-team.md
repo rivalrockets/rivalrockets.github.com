@@ -14,6 +14,6 @@ categories:
 ---
 It can take a humble man to realize that sometimes being a bad-ass DPS&#8217;er isn&#8217;t what is best for the situation at hand. If you can heal and nobody is stepping up to the plate, put your sword down and change your gear.
 
-[<img src="http://rivalrockets.com/blog/wp-content/uploads/2008/03/jeho_cool.JPG" alt="jeho_cool.JPG" height="411" width="380" />](http://rivalrockets.com/blog/wp-content/uploads/2008/03/jeho_cool.JPG "jeho_cool.JPG")
+[<img src="/content/2008/03/jeho_cool.JPG" alt="jeho_cool.JPG" height="411" width="380" />](/content/2008/03/jeho_cool.JPG "jeho_cool.JPG")
 
-Sometimes you simply need to swallow your pride and [Take one for the Team](http://rivalrockets.com/blog/wp-content/uploads/2008/03/jeho_lame.JPG "Take one for the Team")
+Sometimes you simply need to swallow your pride and [Take one for the Team](/content/2008/03/jeho_lame.JPG "Take one for the Team")

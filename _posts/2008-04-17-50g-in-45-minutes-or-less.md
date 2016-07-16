@@ -13,7 +13,7 @@ categories:
   - How to
   - WoW
 ---
-<img class="alignleft size-full wp-image-92" style="float: left; margin-left: 10px; margin-right: 10px; margin-top: 3px; margin-bottom: 3px;" src="http://rivalrockets.com/blog/wp-content/uploads/2008/04/wow-gold.jpg" alt="" width="180" height="247" />Thanks to Sean for the first gold-making article, but I thought I&#8217;d share what I&#8217;ve learned so far. If you&#8217;re pressed for time, this a good way to make a decent profit, and it has a little bit of variety too.
+<img class="alignleft size-full wp-image-92" style="float: left; margin-left: 10px; margin-right: 10px; margin-top: 3px; margin-bottom: 3px;" src="/content/2008/04/wow-gold.jpg" alt="" width="180" height="247" />Thanks to Sean for the first gold-making article, but I thought I&#8217;d share what I&#8217;ve learned so far. If you&#8217;re pressed for time, this a good way to make a decent profit, and it has a little bit of variety too.
 
 _**Isle of Quel&#8217;Danas**_
 

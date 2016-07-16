@@ -17,7 +17,7 @@ categories:
 Seriously, HDTV&#8217;s and the powerful <a href="http://en.wikipedia.org/wiki/History_of_video_game_consoles_%28seventh_generation%29" target="_blank">7th-generation era</a> consoles have the wonderful PC gaming experience under a serious threat of being &#8230; exterminated, or at the very least, reduced to a shell of its former self.
 
 <p align="center">
-  <img src="http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/225px-xbox360.png" alt="225px-xbox360.png" />
+  <img src="/content/2008/03/225px-xbox360.png" alt="225px-xbox360.png" />
 </p>
 
 I know I echo the declarations of countless other writers with statements such as these. A couple of points that used to distinguish the PC platform from it&#8217;s entertainment center-bound cousin become less and less defined as TV sets get bigger and clearer, and networks get faster and more accessible. This all reinforced by the news that some developers&#8217; <a href="http://www.g4tv.com/thefeed/blog/post/682890/Epic_to_Focus_on_Consoles_Not_PC.html" target="_blank">recent actions seem to agree</a>.

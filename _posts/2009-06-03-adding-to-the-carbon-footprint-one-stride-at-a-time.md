@@ -22,8 +22,8 @@ After this news, I jumped for joy and ran headlong into the battlegrounds to ear
 
 I went to the war-mount dealership and purchased a fully stocked, 0% APR financed Battlestrider with no interest till 2011!
 
-<img class="alignnone size-full wp-image-455" title="They tried to sell me their damn rustproofing, but I knew better..." src="http://rivalrockets.com/blog/wp-content/uploads/2009/06/wowscrnshot_060109_235146.jpg" alt="They tried to sell me their damn rustproofing, but I knew better..." />
+<img class="alignnone size-full wp-image-455" title="They tried to sell me their damn rustproofing, but I knew better..." src="/content/2009/06/wowscrnshot_060109_235146.jpg" alt="They tried to sell me their damn rustproofing, but I knew better..." />
 
-<img class="alignnone size-full wp-image-457" style="border: 1px solid black;" title="Drivin' her off the lot, and feelin' good!" src="http://rivalrockets.com/blog/wp-content/uploads/2009/06/wowscrnshot_060109_235256.jpg" alt="Drivin' her off the lot, and feelin' good!" width="1152" height="922" />
+<img class="alignnone size-full wp-image-457" style="border: 1px solid black;" title="Drivin' her off the lot, and feelin' good!" src="/content/2009/06/wowscrnshot_060109_235256.jpg" alt="Drivin' her off the lot, and feelin' good!" width="1152" height="922" />
 
 Although I can&#8217;t go around corners faster than five mph without rolling the thing, I&#8217;m still damn happy with it!

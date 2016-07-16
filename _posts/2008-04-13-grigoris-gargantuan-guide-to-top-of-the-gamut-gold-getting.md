@@ -29,7 +29,7 @@ The first Daily I suggest to pick up starts as a chain quest from a Sha&#8217;Ta
 
 After you&#8217;ve picked up a flying mount, head back to Shattrath and look to the Skyguard mentioned above.  She will give you a quest to take care of a number of ogres residing in the hills above the city.  After this is done, you are directed to a place in Terokkar Forest called Blackwing Landing.  You can spot the encampment by its distinctive neon glowing landing pad much like something a helicopter would land at.
 
-[<img class="alignleft aligncenter size-medium wp-image-89" style="float: left; margin-left: 5px; margin-right: 5px;" src="http://rivalrockets.com/blog/wp-content/uploads/2008/04/wowscrnshot_030408_210845-300x240.jpg" alt="" width="300" height="240" />](http://rivalrockets.com/blog/wp-content/uploads/2008/04/wowscrnshot_030408_210845.jpg)
+[<img class="alignleft aligncenter size-medium wp-image-89" style="float: left; margin-left: 5px; margin-right: 5px;" src="/content/2008/04/wowscrnshot_030408_210845-300x240.jpg" alt="" width="300" height="240" />](/content/2008/04/wowscrnshot_030408_210845.jpg)
 
 You can see in the upper right corner where the landing pad is.  This area is just southeast of Allerian Stronghold in Terokkar Forest.
 

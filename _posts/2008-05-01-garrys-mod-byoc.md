@@ -13,7 +13,7 @@ categories:
   - Gaming
   - Half-Life
 ---
-[<img class="alignleft size-thumbnail wp-image-109" title="garrysmod1" src="http://rivalrockets.com/blog/wp-content/uploads/2008/05/garrysmod1-180x180.jpg" alt="" width="180" height="180" />](http://rivalrockets.com/blog/wp-content/uploads/2008/05/garrysmod1.jpg)What a beautiful sight to see!Â  I can now have passengers ride in style in, or rather, _on_ my um, shiny, um, new _Jalopy_.
+[<img class="alignleft size-thumbnail wp-image-109" title="garrysmod1" src="/content/2008/05/garrysmod1-180x180.jpg" alt="" width="180" height="180" />](/content/2008/05/garrysmod1.jpg)What a beautiful sight to see!Â  I can now have passengers ride in style in, or rather, _on_ my um, shiny, um, new _Jalopy_.
 
 Garry Newman&#8217;s outstanding HL2 sandbox mod keeps getting better and better, one of the most notable recent changes is the addition of new vehicle types: Chairs!
 

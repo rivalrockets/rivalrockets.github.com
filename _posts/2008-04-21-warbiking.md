@@ -16,11 +16,11 @@ About three years ago I had the idea to set up a workstation I could use while s
 Fast forward to a few months ago. I had just started playing WOW, and this <span style="#ff9900;"><span style="underline;"><a href="http://theweightlifter.blogspot.com/2006/10/low-cal-6011-min-warbiking-3-months-41.html">article</a></span></span> caught my eye. I thought to myself, could a more comfortable biking position + a very addictive game work? I mulled it over for a while, then a few weeks ago I purchased an inexpensieve recumbant bike at Walmart. I really thought I would have to spend several hundred dollars to get a good bike, but this one only cost a hundred, and has a digital miles/speed/calories/time readout. It&#8217;s also solid and makes very little noise.
 
 <p style="center;">
-  <a href="http://rivalrockets.com/blog/wp-content/uploads/2008/04/warbike_2.jpg"> </a>
+  <a href="/content/2008/04/warbike_2.jpg"> </a>
 </p>
 
 <p style="left;">
-  <a href="http://rivalrockets.com/blog/wp-content/uploads/2008/04/warbike_2.jpg"><img class="alignright alignnone size-medium wp-image-100" style="float: right; margin-top: 5px; margin-bottom: 5px; margin-left: 10px; margin-right: 10px;" src="http://rivalrockets.com/blog/wp-content/uploads/2008/04/warbike_2-225x300.jpg" alt="" width="225" height="300" /></a>I&#8217;ve spent time trying to get a setup I like, as well as come up with some goals. I think I&#8217;ve found what I need, so as of today I am beginning a 6 week plan to lose weight and get a lot of WOW stuff. I&#8217;m posting my plan here to help keep me accountable. I&#8217;ll be posting updates weekly, so stay tuned!
+  <a href="/content/2008/04/warbike_2.jpg"><img class="alignright alignnone size-medium wp-image-100" style="float: right; margin-top: 5px; margin-bottom: 5px; margin-left: 10px; margin-right: 10px;" src="/content/2008/04/warbike_2-225x300.jpg" alt="" width="225" height="300" /></a>I&#8217;ve spent time trying to get a setup I like, as well as come up with some goals. I think I&#8217;ve found what I need, so as of today I am beginning a 6 week plan to lose weight and get a lot of WOW stuff. I&#8217;m posting my plan here to help keep me accountable. I&#8217;ll be posting updates weekly, so stay tuned!
 </p>
 
 <p style="left;">
@@ -47,7 +47,7 @@ Fast forward to a few months ago. I had just started playing WOW, and this <span
       </p>
       
       <p style="text-align: center;">
-        <a href="http://rivalrockets.com/blog/wp-content/uploads/2008/04/warbike_1.jpg"><img class="alignright alignnone size-medium wp-image-99" style="float: right; margin-top: 5px; margin-bottom: 5px; margin-left: 10px; margin-right: 10px;" src="http://rivalrockets.com/blog/wp-content/uploads/2008/04/warbike_1-300x264.jpg" alt="" width="300" height="264" /></a>
+        <a href="/content/2008/04/warbike_1.jpg"><img class="alignright alignnone size-medium wp-image-99" style="float: right; margin-top: 5px; margin-bottom: 5px; margin-left: 10px; margin-right: 10px;" src="/content/2008/04/warbike_1-300x264.jpg" alt="" width="300" height="264" /></a>
       </p>
       
       <p>

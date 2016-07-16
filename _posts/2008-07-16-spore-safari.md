@@ -23,7 +23,7 @@ Anyway, I&#8217;ve gone on safari and discovered some cool new species of animal
 
 ### First: the Thunderbeak
 
-[ <img class="alignnone size-medium wp-image-166" title="Thunderbeak with two offspring." src="http://rivalrockets.com/blog/wp-content/uploads/2008/07/cre_thunderbeak-06a7253a_sml-400x300.jpg" alt="" width="400" height="300" />](http://rivalrockets.com/blog/wp-content/uploads/2008/07/cre_thunderbeak-06a7253a_sml.jpg)
+[ <img class="alignnone size-medium wp-image-166" title="Thunderbeak with two offspring." src="/content/2008/07/cre_thunderbeak-06a7253a_sml-400x300.jpg" alt="" width="400" height="300" />](/content/2008/07/cre_thunderbeak-06a7253a_sml.jpg)
 
 This omnivorous plains creature often travels in groups.  These groups can consist of anywhere from 3 to 200 individuals.  They commonly graze on grasses, berries, and nuts.  When drought decreases foliage, Thunderbeaks have been seen preying on small ground mammals.
 
@@ -35,7 +35,7 @@ Lifespan: 20-26 years.
 
 ### Next: The Gatormantid
 
-[<img class="alignnone size-medium wp-image-167" title="the dreaded ambusher..." src="http://rivalrockets.com/blog/wp-content/uploads/2008/07/cre_gatormantid-06a7253c_sml-400x300.jpg" alt="" width="400" height="300" />](http://rivalrockets.com/blog/wp-content/uploads/2008/07/cre_gatormantid-06a7253c_sml.jpg)
+[<img class="alignnone size-medium wp-image-167" title="the dreaded ambusher..." src="/content/2008/07/cre_gatormantid-06a7253c_sml-400x300.jpg" alt="" width="400" height="300" />](/content/2008/07/cre_gatormantid-06a7253c_sml.jpg)
 
 These low-set predators hide in the tall brush patrolled by thunderbeaks.  If a thunderbeak becomes separated from its group, a gatormantid will lash out with its long, serrated claws, cutting the neck of the prey.  If the thunderbeak manages to not get cut, the gatormantid will more than likely flee; their bodies are frail.  Often gatormantids might seek out lizard-eyed ground parrots in favor of thunderbeaks.
 
@@ -47,7 +47,7 @@ Lifespan: 17-20 years.
 
 ### The mighty one: Arkrodons.
 
-[<img class="alignnone size-medium wp-image-168" title="Adults commonly reach 10 to 11 feet in height." src="http://rivalrockets.com/blog/wp-content/uploads/2008/07/cre_arkrodon-06a72539_sml-400x300.jpg" alt="" width="400" height="300" />](http://rivalrockets.com/blog/wp-content/uploads/2008/07/cre_arkrodon-06a72539_sml.jpg)
+[<img class="alignnone size-medium wp-image-168" title="Adults commonly reach 10 to 11 feet in height." src="/content/2008/07/cre_arkrodon-06a72539_sml-400x300.jpg" alt="" width="400" height="300" />](/content/2008/07/cre_arkrodon-06a72539_sml.jpg)
 
 The Arkrodon is one of the more outwardly impressive beasts in the grasslands.  Herds of arkrodons usually consist of massive, sometimes multiple, family communities, easily reaching over 1000 individuals.  The enormous population is due to the fact that arkrodons have no natural predators.  They&#8217;re so large and heavily armored that gatormantids never dare to move too close to their hooves.  Because of this, lizard-eyed ground parrots have found good protection by grooming arkrodons free of their parasites.
 
@@ -59,7 +59,7 @@ Lifespan: 60-65 years.
 
 ### Finally: Lizard-eyed Ground Parrots
 
-[<img class="alignnone size-medium wp-image-169" title="Note the reptillian glare." src="http://rivalrockets.com/blog/wp-content/uploads/2008/07/cre_-06a7253e_sml-400x300.jpg" alt="" width="400" height="300" />](http://rivalrockets.com/blog/wp-content/uploads/2008/07/cre_-06a7253e_sml.jpg)
+[<img class="alignnone size-medium wp-image-169" title="Note the reptillian glare." src="/content/2008/07/cre_-06a7253e_sml-400x300.jpg" alt="" width="400" height="300" />](/content/2008/07/cre_-06a7253e_sml.jpg)
 
 Small, but crafty, these flightless birds have joined up with arkrodons for food in the form of parasitic meals, and protection from gatormantids.  They are not very fast and otherwise easy targets for thunderbeaks as well as the nemisis from which they seek shelter.  They have a call that sounds strangely like Gilbert Gottfried.
 

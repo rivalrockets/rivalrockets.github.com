@@ -18,5 +18,5 @@ categories:
   - WoW
 ---
 <p style="text-align: center;">
-  <img class="aligncenter size-medium wp-image-331" src="http://rivalrockets.com/blog/wp-content/uploads/2008/10/flying-400x286.jpg" alt="" width="400" height="286" />
+  <img class="aligncenter size-medium wp-image-331" src="/content/2008/10/flying-400x286.jpg" alt="" width="400" height="286" />
 </p>

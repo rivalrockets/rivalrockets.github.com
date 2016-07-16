@@ -19,7 +19,7 @@ Earlier last year I discovered the music of My Chemical Romance through this you
 
 I really liked the song but I didn&#8217;t know what it was at first, eventually finding out it was &#8220;the ghost of you&#8221;. After Kit exposed me to his MCR collection I quickly became a fan. Now after a year I come back to this video to find :
 
-<img class="aligncenter size-full wp-image-421" src="http://rivalrockets.com/blog/wp-content/uploads/2009/02/copyright_fail.jpg" alt="copyright_fail" width="673" height="107" />
+<img class="aligncenter size-full wp-image-421" src="/content/2009/02/copyright_fail.jpg" alt="copyright_fail" width="673" height="107" />
 
 If this had been done a year ago I might never have heard of MCR&#8230;
 

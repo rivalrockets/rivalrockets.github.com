@@ -12,38 +12,11 @@ categories:
 ---
 More of my exploits in the Deadmines&#8230;
 
-[More of my exploits in the Deadmines&#8230;
 
-](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_183317.jpg "wowscrnshot_030608_183317.jpg") 
+![](/content/2008/03/wowscrnshot_030608_180558.jpg) 
 
-[![wowscrnshot_030608_182806.jpg](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_182806.thumbnail.jpg)Taking on the whole crew.](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_182806.jpg "wowscrnshot_030608_182806.jpg")
+![](/content/2008/03/wowscrnshot_030608_183317.jpg)
 
-[More of my exploits in the Deadmines&#8230;
+Taking on the whole crew.
 
-[More of my exploits in the Deadmines&#8230;
-
-](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_183317.jpg "wowscrnshot_030608_183317.jpg") 
-
-[![wowscrnshot_030608_182806.jpg](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_182806.thumbnail.jpg)Taking on the whole crew.](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_182806.jpg "wowscrnshot_030608_182806.jpg")
-
-](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_180558.jpg "wowscrnshot_030608_180558.jpg") 
-
-[More of my exploits in the Deadmines&#8230;
-
-[More of my exploits in the Deadmines&#8230;
-
-](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_183317.jpg "wowscrnshot_030608_183317.jpg") 
-
-[![wowscrnshot_030608_182806.jpg](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_182806.thumbnail.jpg)Taking on the whole crew.](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_182806.jpg "wowscrnshot_030608_182806.jpg")
-
-[More of my exploits in the Deadmines&#8230;
-
-[More of my exploits in the Deadmines&#8230;
-
-](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_183317.jpg "wowscrnshot_030608_183317.jpg") 
-
-[![wowscrnshot_030608_182806.jpg](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_182806.thumbnail.jpg)Taking on the whole crew.](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_182806.jpg "wowscrnshot_030608_182806.jpg")
-
-](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_180558.jpg "wowscrnshot_030608_180558.jpg") 
-
-](http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/wowscrnshot_030608_180206.jpg "wowscrnshot_030608_180206.jpg")
+![](/content/2008/03/wowscrnshot_030608_182806.jpg)

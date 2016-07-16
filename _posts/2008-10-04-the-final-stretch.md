@@ -19,7 +19,7 @@ categories:
   - WoW
 ---
 <div id="attachment_318" class="wp-caption alignnone" style="width: 132px">
-  <img class="size-full wp-image-318" title="4k at last." src="http://rivalrockets.com/blog/wp-content/uploads/2008/10/4k.jpg" alt="Almost there..." width="122" height="26" />
+  <img class="size-full wp-image-318" title="4k at last." src="/content/2008/10/4k.jpg" alt="Almost there..." width="122" height="26" />
   
   <p class="wp-caption-text">
     Almost there...

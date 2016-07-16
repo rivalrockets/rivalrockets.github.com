@@ -12,7 +12,7 @@ categories:
   - Uncategorized
 ---
 <p align="center">
-  <img src="http://airwalker.homeip.net/blog/wp-content/uploads/2008/03/a-work-in-progress.jpg" alt="a-work-in-progress.jpg" height="454" width="437" />
+  <img src="/content/2008/03/a-work-in-progress.jpg" alt="a-work-in-progress.jpg" height="454" width="437" />
 </p>
 
 <p align="left">
