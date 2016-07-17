@@ -28,7 +28,7 @@ They aren’t perfect though.&#160;&#160; Two player board games usually aren’
 
 So here’s what I’m thinking.&#160;&#160; Sometime in the next few months, I would like to host a board game night at my house.&#160;&#160;&#160; The basic format would be dinner, the game, and optionally a movie (or another round or game).&#160;&#160; I’m looking for a minimum of three players, with a max of six.&#160;&#160; Google bots are not invited, even if they have been faithful readers of this blog.&#160;&#160; 
 
-As for the game, I’ve listed three possibilities below.&#160;&#160; I do not own any of these, but would purchase the one to be played, unless it could be provided by someone else.&#160;&#160; I will take suggestions for other games as well, but if you suggest scrabble you are not grasping my point  <img src='http://localhost/blog/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />&#160;&#160; 
+As for the game, I’ve listed three possibilities below.&#160;&#160; I do not own any of these, but would purchase the one to be played, unless it could be provided by someone else.&#160;&#160; I will take suggestions for other games as well, but if you suggest scrabble you are not grasping my point :) &#160;&#160; 
 
 ## Axis & Allies
 

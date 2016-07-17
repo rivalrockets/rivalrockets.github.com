@@ -9,7 +9,7 @@ permalink: /2008/04/ubuntu-804-lts-released/
 categories:
   - Linux
 ---
-<img class="alignleft alignnone size-thumbnail wp-image-103" style="float: left; margin: 5px;" title="logo-ubuntu-only" src="/content/2008/04/logo-ubuntu-only-150x150.png" alt="" width="150" height="150" />I know I&#8217;m the only one who cares about this but my favorite flavor of Linux Ubutnu 8.04 LTS, codenamed &#8220;Hardy Heron&#8221; (LTS stands for long term support) has been released upon the unsuspecting masses today, and as usual, all of the servers are being hammered as I type  <img src='http://localhost/blog/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
+<img class="alignleft alignnone size-thumbnail wp-image-103" style="float: left; margin: 5px;" title="logo-ubuntu-only" src="/content/2008/04/logo-ubuntu-only-150x150.png" alt="" width="150" height="150" />I know I&#8217;m the only one who cares about this but my favorite flavor of Linux Ubutnu 8.04 LTS, codenamed &#8220;Hardy Heron&#8221; (LTS stands for long term support) has been released upon the unsuspecting masses today, and as usual, all of the servers are being hammered as I type :)
 
 But never fear! BitTorrent works like a champ in times like these!
 

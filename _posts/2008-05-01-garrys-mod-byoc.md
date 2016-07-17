@@ -21,7 +21,7 @@ As veteran Garry&#8217;s Mod players will note, this is a _huge_ dealâ€”bef
 
 I&#8217;ll post a couple videos of Garry&#8217;s Mod action soon!
 
-Apologies for the poor YouTube quality, the video got over-compressed, I&#8217;ll have to upload a better take.Â  To explain what is going on in this video: I had created a flying vehicle (let&#8217;s call it the podcopter) and Sean had build this rather frightening looking car.Â  We decided to compare top speeds of or respective vehicles and well it turns out that Sean had superior acceleration but we ultimately had the same top speed.Â  Sean also had one surprise for me toward the end of the race, watch and enjoy <img src='http://localhost/blog/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' />
+Apologies for the poor YouTube quality, the video got over-compressed, I&#8217;ll have to upload a better take.Â  To explain what is going on in this video: I had created a flying vehicle (let&#8217;s call it the podcopter) and Sean had build this rather frightening looking car.Â  We decided to compare top speeds of or respective vehicles and well it turns out that Sean had superior acceleration but we ultimately had the same top speed.Â  Sean also had one surprise for me toward the end of the race, watch and enjoy :-)
   
 
 

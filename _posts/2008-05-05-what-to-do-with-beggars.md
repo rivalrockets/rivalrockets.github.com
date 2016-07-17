@@ -13,4 +13,4 @@ categories:
 ---
 <img class="alignnone size-medium wp-image-112" src="/content/2008/05/beggers.jpg" alt="" width="368" height="213" />
 
- <img src='http://localhost/blog/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' />Â  I actually got him to sit behind a tree
+ :D I actually got him to sit behind a tree

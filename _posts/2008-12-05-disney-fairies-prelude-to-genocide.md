@@ -35,7 +35,7 @@ Peter decides that Neverland will need a standing militia in order to hold off t
 
 Tinker Bell, however, is traumatized to the point of never speaking again, except in twinkles and pings. She becomes very distrusting of outsiders that aren&#8217;t recruited by agreement of both her and Peter. She also owes a life debt to Peter after he saved her from the poison gas, and is very over protective of him. Then Peter recruits Wendy without Tink&#8217;s approval, and the movie begins.
 
-Of course, this is only theoretical. <img title="Sweating a little..." src="http://e.deviantart.com/emoticons/a/animesweat.gif" alt="^^;" width="19" height="19" />
+Of course, this is only theoretical. <img title="Sweating a little..." src="/content/2008/12/animesweat.gif" alt="^^;" />
   
 But doesn&#8217;t it seem eerily fitting to the gap between the franchises?
 

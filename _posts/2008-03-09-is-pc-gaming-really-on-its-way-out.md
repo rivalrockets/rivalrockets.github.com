@@ -26,4 +26,4 @@ Many of you know the arguments for the inevitable _coup d&#8217;etat_ that await
 
 So I ask: **what sells the PC gaming world?** Is it freedom from hyper-commercialization that the consoles suffer from? Is it the glorious mouse-keyboard control scheme that can&#8217;t _quite_ be replicated by a controller, or is it the PC itself: a virtually organic, constantly changing, evolving _companion_—open and not bound to one <a href="http://www.microsoft.com" target="_blank">corporate interest</a> that will be the ultimate salvation?
 
-Or is it the fact that I derive some sort of sick pleasure from torturing myself with what I estimate to be at least _300_ hours a year spent &#8220;troubleshooting&#8221; my beloved (read: _f\*cking peice of sh\*t_) computer?  <img src='http://localhost/blog/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
+Or is it the fact that I derive some sort of sick pleasure from torturing myself with what I estimate to be at least _300_ hours a year spent &#8220;troubleshooting&#8221; my beloved (read: _f\*cking peice of sh\*t_) computer?  :)

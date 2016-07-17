@@ -12,7 +12,7 @@ categories:
   - Gaming
   - WoW
 ---
-Found a cool service at [warcraftid.com](http://warcraftid.com), and I thought I would show my current level 80&#8242;s    <img src='http://localhost/blog/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' />A nice feature of this service is that the stats should update periodically with armory updates.
+Found a cool service at [warcraftid.com](http://warcraftid.com), and I thought I would show my current level 80&#8242;s :D  A nice feature of this service is that the stats should update periodically with armory updates.
 
 [<img src="http://warcraftid.com/card/392/j/062fc07fa671acf40bebc216c3c3ccc2/human.jpg" border="0" alt="jehoiada" />](http://warcraftid.com)
   

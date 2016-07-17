@@ -69,4 +69,4 @@ Height:12 to 16 inches.
 
 Lifespan:10-12 years.
 
-These critters are merely the start of my Spore career.  Next I might try developing intelligent beings.  Otherwise, so far, what was YOUR favorite?  I myself am most pleased with how Arkrodon came out.  I&#8217;ve had a creature design vaguely similar to that in my head for a few years now.  I&#8217;m glad I finally got to display it.  <img src='http://localhost/blog/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
+These critters are merely the start of my Spore career.  Next I might try developing intelligent beings.  Otherwise, so far, what was YOUR favorite?  I myself am most pleased with how Arkrodon came out.  I&#8217;ve had a creature design vaguely similar to that in my head for a few years now.  I&#8217;m glad I finally got to display it. :)
