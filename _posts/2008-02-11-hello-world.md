@@ -14,7 +14,7 @@ categories:
 ---
 World of Warcraft meets casual gaming couple. More after the break.
 
-With the help of friend Kevinsorbo, I took Eilonwy to the Outland&#8230; yes, she&#8217;s &#8220;only&#8221; level 56 so that makes questing there not a real possibility, but I did get to take her to Shatt, so that was fun. Before we went there we gazed at the other side of the portal that she cannot go through: 
+With the help of friend Kevinsorbo, I took Eilonwy to the Outland... yes, she's "only" level 56 so that makes questing there not a real possibility, but I did get to take her to Shatt, so that was fun. Before we went there we gazed at the other side of the portal that she cannot go through: 
 
 Eilonwy gazes at the Dark Portal
 

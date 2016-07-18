@@ -14,4 +14,4 @@ categories:
 ---
 Dang gap in posts again!  Well Kit and I are going to write a nice long post really soon about my summer computer upgrades. Sit tight.
 
-&#8230;I love to pretend we have an audience!
+...I love to pretend we have an audience!

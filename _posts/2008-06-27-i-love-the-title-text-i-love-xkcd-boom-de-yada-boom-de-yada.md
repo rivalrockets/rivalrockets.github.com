@@ -1,6 +1,6 @@
 ---
 id: 158
-title: 'I love the Title text, I love XKCD&#8230;             &#8230;boom-de-yada, boom-de-yada&#8230;'
+title: 'I love the Title text, I love XKCD...             ...boom-de-yada, boom-de-yada...'
 date: 2008-06-27T13:39:31+00:00
 author: Sean
 layout: post

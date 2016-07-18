@@ -15,4 +15,4 @@ categories:
 ---
 <img class="alignnone" title="Etch-a-Sketch" src="http://imgs.xkcd.com/comics/etch-a-sketch.png" alt="" width="553" height="985" />
 
-I have actually DONE this&#8230; Well, maybe I didn&#8217;t imagine the lady.
+I have actually DONE this... Well, maybe I didn't imagine the lady.

@@ -11,4 +11,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-My initial reaction is to keep looking, but this theme will do for now&#8230; Thanks Sean.
+My initial reaction is to keep looking, but this theme will do for now... Thanks Sean.

@@ -1,6 +1,6 @@
 ---
 id: 505
-title: 'A Coloring Tutorial that Blizzard Still Doesn&#8217;t Get After FIVE Years'
+title: A Coloring Tutorial that Blizzard Still Doesn't Get After FIVE Years
 date: 2009-10-10T21:40:37+00:00
 author: Brian
 layout: post

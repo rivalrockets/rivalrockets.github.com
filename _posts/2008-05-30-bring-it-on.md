@@ -12,6 +12,6 @@ categories:
   - Gaming
   - WoW
 ---
-Murmur ain&#8217;t got nothing on me
+Murmur ain't got nothing on me
 
 [<img class="alignnone size-medium wp-image-128" src="/content/2008/05/bring_it_on-400x300.jpg" alt="" width="400" height="300" />](/content/2008/05/bring_it_on.jpg)

@@ -1,6 +1,6 @@
 ---
 id: 187
-title: 'Sean&#8217;s Summer 2008 Build: &#8220;Manticore&#8221;'
+title: Sean's Summer 2008 Build - "Manticore"
 date: 2008-08-19T23:31:00+00:00
 author: Kit
 layout: post

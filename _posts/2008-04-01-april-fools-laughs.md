@@ -1,6 +1,6 @@
 ---
 id: 75
-title: 'April Fool&#8217;s Laughs'
+title: April Fool's Laughs
 date: 2008-04-01T23:47:41+00:00
 author: Brian
 layout: post

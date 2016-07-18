@@ -1,6 +1,6 @@
 ---
 id: 256
-title: 'First Finished &#8216;Sins&#8217; Match!'
+title: First Finished "Sins" Match!
 date: 2008-09-13T23:49:40+00:00
 author: Sean
 layout: post
@@ -28,7 +28,7 @@ categories:
   - Gaming
   - Web
 ---
-Kit and I finished our first &#8220;Comp Stomp&#8221; in _Sins of a Solar Empire_.  I gotta say, **this game is one of THE most beautiful RTS&#8217;s I&#8217;ve ever played**.  It&#8217;s the type of game that should be
+Kit and I finished our first "Comp Stomp" in _Sins of a Solar Empire_.  I gotta say, **this game is one of THE most beautiful RTS's I've ever played**.  It's the type of game that should be
 
   1. Played in the dark when possible, and
   2. Played with slow, elegant classical music playing in the background.

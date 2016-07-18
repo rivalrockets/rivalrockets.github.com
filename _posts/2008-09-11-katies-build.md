@@ -1,6 +1,6 @@
 ---
 id: 230
-title: 'Katie&#8217;s 2008 Build: &#8220;Mystique&#8221;'
+title: Katie's 2008 Build - Mystique
 date: 2008-09-11T18:03:32+00:00
 author: Kit
 layout: post
@@ -22,9 +22,9 @@ categories:
   - Computers
   - PC Builds
 ---
-One of the biggest reasons I&#8217;ve been neglecting my blog is the recent influx of computer building adventures
+One of the biggest reasons I've been neglecting my blog is the recent influx of computer building adventures
 
-I present my sister&#8217;s new gaming machine: _**Mystique**_
+I present my sister's new gaming machine: _**Mystique**_
 
 Processor: Intel E8500 @ 3.17 GHz
   

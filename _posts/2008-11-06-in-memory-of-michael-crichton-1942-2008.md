@@ -21,11 +21,11 @@ One of my all-time favorite authors, the science fiction genius Michael Crichton
 
 He was probably best known for his book: Jurassic Park, and also as the creator of the television series: ER.
 
-Crichton was, in my opinion, a science fiction genius.  He could take fantastic ideas like resurrecting dinosaurs, controlling the weather, and time travel, and make it seem believeable!  He embedded these concepts in so much real science, that one could not help but wonder why scientists weren&#8217;t ALREADY breeding raptors.
+Crichton was, in my opinion, a science fiction genius.  He could take fantastic ideas like resurrecting dinosaurs, controlling the weather, and time travel, and make it seem believeable!  He embedded these concepts in so much real science, that one could not help but wonder why scientists weren't ALREADY breeding raptors.
 
 A great writer, a doctor, and an inspiration to people everywhere.
 
-Here&#8217;s to you, Michael.  Rest in peace.
+Here's to you, Michael.  Rest in peace.
 
 <p style="text-align: center;">
   <img class="size-medium wp-image-345 aligncenter" src="/content/2008/11/mcrichton2.jpg" alt="" width="178" height="240" />

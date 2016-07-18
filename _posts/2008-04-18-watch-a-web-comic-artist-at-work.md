@@ -12,7 +12,7 @@ categories:
   - Art
   - Web
 ---
-[Mike Krahulik](http://en.wikipedia.org/wiki/Mike_Krahulik "Mike Krahulik") of Penny-Arcade.com has done everyone who cares about doing cartoons and illustrations with a graphics tablet a huge favor and captured the process and put it up on the web for everyone to <a href="http://www.penny-arcade.com/2008/4/18/" target="_blank">watch</a>!  I&#8217;ve already watched the first few minutes of this and it&#8217;s quite comforting to see him be meticulous about how each stroke of the pen looks.
+[Mike Krahulik](http://en.wikipedia.org/wiki/Mike_Krahulik "Mike Krahulik") of Penny-Arcade.com has done everyone who cares about doing cartoons and illustrations with a graphics tablet a huge favor and captured the process and put it up on the web for everyone to <a href="http://www.penny-arcade.com/2008/4/18/" target="_blank">watch</a>!  I've already watched the first few minutes of this and it's quite comforting to see him be meticulous about how each stroke of the pen looks.
 
 [Penny Arcade Ustream page here](http://www.ustream.tv/channel/penny-arcade-tv)
   

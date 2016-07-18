@@ -1,6 +1,6 @@
 ---
 id: 46
-title: 'Here&#8217;s to Hoping that &#8220;Early Adoption&#8221; Doesn&#8217;t Suck!'
+title: Here's to Hoping that "Early Adoption" Doesn't Suck!
 date: 2008-03-13T22:35:55+00:00
 author: Kit
 layout: post
@@ -14,14 +14,14 @@ dsq_thread_id:
 categories:
   - Computers
 ---
-I won&#8217;t call it an impulse buy, but it certainly wasn&#8217;t a completely cautious purchase—that&#8217;s for sure. Today I ordered the absolutely brand-new (just flagged as in stock <a href="http://www.amazon.com/Logitech-920-000594-diNovo-Mini/dp/B0011FOOI2/ref=pd_bbs_sr_1?ie=UTF8&s=electronics&qid=1205465167&sr=8-1" target="_blank">yesterday</a>)  <a href="http://www.logitech.com/index.cfm/keyboards/keyboard/devices/3848&cl=us,en" target="_blank">DiNovo Mini.</a>
+I won't call it an impulse buy, but it certainly wasn't a completely cautious purchase—that's for sure. Today I ordered the absolutely brand-new (just flagged as in stock <a href="http://www.amazon.com/Logitech-920-000594-diNovo-Mini/dp/B0011FOOI2/ref=pd_bbs_sr_1?ie=UTF8&s=electronics&qid=1205465167&sr=8-1" target="_blank">yesterday</a>)  <a href="http://www.logitech.com/index.cfm/keyboards/keyboard/devices/3848&cl=us,en" target="_blank">DiNovo Mini.</a>
 
 <p align="center">
   <img src="/content/2008/03/41-ljcrkjl_aa280_.jpg" alt="New toy." />
 </p>
 
 <p align="left">
-  It&#8217;s for my media PC in the hopes of replacing my gargantuan Bluetooth Microsoft Multimedia Keyboard. This should be the best thing that&#8217;s happened to my HTPC since&#8211;well since it got a microATX form factor.
+  It's for my media PC in the hopes of replacing my gargantuan Bluetooth Microsoft Multimedia Keyboard. This should be the best thing that's happened to my HTPC since&#8211;well since it got a microATX form factor.
 </p>
 
 <p align="center">
@@ -29,5 +29,5 @@ I won&#8217;t call it an impulse buy, but it certainly wasn&#8217;t a completely
 </p>
 
 <p align="left">
-  The diNovo Mini sports a thumb typing style with back-lit keys and a flip open cover to cover it up when it&#8217;s not in use. I have no guarantee that it&#8217;ll play nice with Airwalker (a Linux-blooded machine).  But here&#8217;s to hope!
+  The diNovo Mini sports a thumb typing style with back-lit keys and a flip open cover to cover it up when it's not in use. I have no guarantee that it'll play nice with Airwalker (a Linux-blooded machine).  But here's to hope!
 </p>

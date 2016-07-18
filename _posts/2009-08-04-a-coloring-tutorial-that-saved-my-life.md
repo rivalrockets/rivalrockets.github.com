@@ -14,11 +14,11 @@ categories:
   - Art
   - How to
 ---
-Well, not really.  But &#8220;Basic Color Blending&#8221; by [Andantonius](http://andantonius.deviantart.com/) from Deviant Art, found [here](http://andantonius.deviantart.com/art/Andart-Basic-Blending-101327993), is one of the most insightful and helpful tutorials I&#8217;ve ever seen for digital coloring.
+Well, not really.  But "Basic Color Blending" by [Andantonius](http://andantonius.deviantart.com/) from Deviant Art, found [here](http://andantonius.deviantart.com/art/Andart-Basic-Blending-101327993), is one of the most insightful and helpful tutorials I've ever seen for digital coloring.
 
 Credit goes to Kit for finding this amazing video first.  He showed it to me a while back, and I just now got to watching it since my web speed was increased.
 
-Here&#8217;s some before/after images showing my improvement after being enlightened by Andantonius.
+Here's some before/after images showing my improvement after being enlightened by Andantonius.
 
 _**Before:**_
 

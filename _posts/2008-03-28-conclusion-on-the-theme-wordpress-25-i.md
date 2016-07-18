@@ -11,4 +11,4 @@ dsq_thread_id:
 categories:
   - Blog
 ---
-WordPress 2.5 is going to be out soon and any theme I find that I like could potentially be broken by it, so I&#8217;ll wait.
+WordPress 2.5 is going to be out soon and any theme I find that I like could potentially be broken by it, so I'll wait.

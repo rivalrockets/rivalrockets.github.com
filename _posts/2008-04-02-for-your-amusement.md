@@ -1,6 +1,6 @@
 ---
 id: 79
-title: 'For your amusement&#8230;'
+title: 'For your amusement...'
 date: 2008-04-02T23:39:21+00:00
 author: Kit
 layout: post

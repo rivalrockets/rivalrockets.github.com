@@ -1,6 +1,6 @@
 ---
 id: 21
-title: 'Ivy&#8217;s disposition'
+title: Ivy's disposition
 date: 2008-03-04T23:37:37+00:00
 author: Kit
 layout: post
@@ -17,5 +17,5 @@ categories:
 
 <p align="left">
   <p align="left">
-    I really liked this <a href="http://xkcd.com/387/">xkcd</a> comic from the other day, so I thought I&#8217;d share it with you guys.
+    I really liked this <a href="http://xkcd.com/387/">xkcd</a> comic from the other day, so I thought I'd share it with you guys.
   </p>

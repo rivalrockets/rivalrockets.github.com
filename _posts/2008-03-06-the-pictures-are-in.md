@@ -10,7 +10,7 @@ categories:
   - Gaming
   - WoW
 ---
-More of my exploits in the Deadmines&#8230;
+More of my exploits in the Deadmines...
 
 
 ![](/content/2008/03/wowscrnshot_030608_180558.jpg) 

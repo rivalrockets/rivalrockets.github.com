@@ -15,6 +15,6 @@ categories:
   - Humor
   - WoW
 ---
-Don&#8217;t know if this was really meant to be serious, but at any rate it&#8217;s funny
+Don't know if this was really meant to be serious, but at any rate it's funny
 
 <http://www.wowinsider.com/2008/06/26/a-look-at-the-geography-of-wow-from-interesting-08/>

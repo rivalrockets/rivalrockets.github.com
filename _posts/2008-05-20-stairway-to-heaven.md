@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Seems to work quite well in GarrysMod, except for the prop limit&#8230;
+Seems to work quite well in GarrysMod, except for the prop limit...
 
 <!-- see gallery_shortcode() in wp-includes/media.php -->
 

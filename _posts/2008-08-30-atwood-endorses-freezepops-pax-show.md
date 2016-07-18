@@ -1,6 +1,6 @@
 ---
 id: 225
-title: 'Atwood Endorses Freezepop&#8217;s PAX Show&#8230;'
+title: Atwood Endorses Freezepop's PAX Show...
 date: 2008-08-30T01:04:39+00:00
 author: Kit
 layout: post

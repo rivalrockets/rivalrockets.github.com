@@ -12,8 +12,8 @@ categories:
   - Gaming
   - WoW
 ---
-Just a quick post&#8230; this was an interesting read:
+Just a quick post... this was an interesting read:
 
 [http://news.filefront.com/dont-worry-blizzard-isnt-dumbing-down-world-of-warcraft/](http://news.filefront.com/dont-worry-blizzard-isnt-dumbing-down-world-of-warcraft/ "link")
 
-I for one am all for it&#8230;
+I for one am all for it...

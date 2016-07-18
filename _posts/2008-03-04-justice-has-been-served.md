@@ -19,4 +19,4 @@ categories:
   <a href="/content/2008/03/justice.JPG" title="justice.JPG"><img src="/content/2008/03/justice.JPG" alt="justice.JPG" height="264" width="428" /></a>
 </p>
 
-You can never be too tough on crime&#8230;
+You can never be too tough on crime...

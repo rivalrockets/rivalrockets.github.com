@@ -27,7 +27,7 @@ This site is a side-project intended to facilitate discussion, nonsense, and _ca
   </p>
   
   <p>
-    With me, I bring some friends who&#8217;ll make posts from time to time.
+    With me, I bring some friends who'll make posts from time to time.
   </p>
   
   <p>

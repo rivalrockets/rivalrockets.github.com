@@ -13,8 +13,8 @@ dsq_thread_id:
 categories:
   - Humor
 ---
-A staple in every nerd&#8217;s diet, I&#8217;m off to the Minnesota Renaissance Festival. I&#8217;ll bring you back a turkey leg and a flagon of mead!
+A staple in every nerd's diet, I'm off to the Minnesota Renaissance Festival. I'll bring you back a turkey leg and a flagon of mead!
 
-_Update&#160; This pic summarizes my festival experience:_
+_Update  This pic summarizes my festival experience:_
 
 <img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="ren_fest_pic" border="0" alt="ren_fest_pic" src="/content/2009/10/ren_fest_pic.jpg" width="644" height="311" />

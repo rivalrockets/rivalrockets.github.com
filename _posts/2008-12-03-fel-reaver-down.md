@@ -13,7 +13,7 @@ dsq_thread_id:
 categories:
   - WoW
 ---
-What lowly 60 something hasn&#8217;t wanted to turn the other cheek with Mr. Reaver?   I just got that opportunity, and I think I&#8217;ve settled the score&#8230;
+What lowly 60 something hasn't wanted to turn the other cheek with Mr. Reaver?   I just got that opportunity, and I think I've settled the score...
 
 [<img class="alignnone size-medium wp-image-364" src="/content/2008/12/reaver_1-389x400.jpg" alt="" width="389" height="400" />](/content/2008/12/reaver_1.jpg)
 

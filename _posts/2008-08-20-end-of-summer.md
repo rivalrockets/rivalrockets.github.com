@@ -14,8 +14,8 @@ dsq_thread_id:
 categories:
   - Humor
 ---
-> Mr. Costanza. Your legs have sustained extensive trauma. Apparently your body was in the state of advanced atrophy, due to a period of extreme inactivity. But with a lot of hard work and a little bit of luck, I think there&#8217;s a good chance you may, one day, walk again.
+> Mr. Costanza. Your legs have sustained extensive trauma. Apparently your body was in the state of advanced atrophy, due to a period of extreme inactivity. But with a lot of hard work and a little bit of luck, I think there's a good chance you may, one day, walk again.
 
-Sean, we&#8217;re all hoping for the best.  hang in there buddy!
+Sean, we're all hoping for the best.  hang in there buddy!
 
 Now, who wants to go out for coffee?

@@ -12,4 +12,4 @@ categories:
   - Computers
   - Gaming
 ---
-Check this out, Tycho of PA reports that a Texas public servant abused funds to build himself a &#8220;kick-ass&#8221; rig. The [comic](http://www.penny-arcade.com/comic/2008/03/12) that ensues is hilarious.
+Check this out, Tycho of PA reports that a Texas public servant abused funds to build himself a "kick-ass" rig. The [comic](http://www.penny-arcade.com/comic/2008/03/12) that ensues is hilarious.

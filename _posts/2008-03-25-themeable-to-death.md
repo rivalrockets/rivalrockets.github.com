@@ -37,15 +37,15 @@ categories:
           <p align="left">
             <p align="left">
               <p>
-                You may have noticed that this page has been going though an obnoxious <em>metamorphosis </em>of sorts lately. I&#8217;ve been having trouble finding a theme I <em>really </em>like.
+                You may have noticed that this page has been going though an obnoxious <em>metamorphosis </em>of sorts lately. I've been having trouble finding a theme I <em>really </em>like.
               </p>
               
               <p>
-                The more I&#8217;ve made myself familiar with WordPress, the more I want it to have the perfect theme that successfully does all that I want it to do and more. This is where the default theme comes in: it is the most clean-lined, straightforward, and useful theme available to me right now.
+                The more I've made myself familiar with WordPress, the more I want it to have the perfect theme that successfully does all that I want it to do and more. This is where the default theme comes in: it is the most clean-lined, straightforward, and useful theme available to me right now.
               </p>
               
               <p>
-                To find the perfect look, I&#8217;ve been trolling the theme vault at <a href="http://themes.wordpress.net" target="_blank">themes.wordpress.net</a> trying to find one better than the last. If anyone else thinks they can find the theme style that has what it takes to make this site look good while retaining functionality—”speak up!
+                To find the perfect look, I've been trolling the theme vault at <a href="http://themes.wordpress.net" target="_blank">themes.wordpress.net</a> trying to find one better than the last. If anyone else thinks they can find the theme style that has what it takes to make this site look good while retaining functionality—”speak up!
               </p>
               
               <p>

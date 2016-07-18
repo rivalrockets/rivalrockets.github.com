@@ -12,7 +12,7 @@ categories:
   - Gaming
   - WoW
 ---
-In a generous move &#8220;Poptarts&#8221; donated to our cause and gave Ivy her epic mount in time for her to have it before taking her extended leave this weekend.
+In a generous move "Poptarts" donated to our cause and gave Ivy her epic mount in time for her to have it before taking her extended leave this weekend.
 
 This means a lot, to both of us!
 
