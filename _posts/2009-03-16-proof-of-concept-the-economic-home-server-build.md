@@ -19,7 +19,7 @@ Last weekend I had just received all the parts to complete what I felt was a pre
 ### MSI Wind Nettop 100
 
   * Intel Atom 330 (Dual-core with Hyperthreading!)
-  * Small Form Factor (11.8&#8243; x 9.5&#8243; x 2.6&#8243;)
+  * Small Form Factor (11.8" x 9.5" x 2.6")
   * Low Power Consumption (31 Watts idle, according to my Kill-A-Watt)
 
 Okay, so now for some pictures:

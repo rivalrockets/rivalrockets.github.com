@@ -36,7 +36,7 @@ Brian had mentioned on more than one occasion the practice of "multiboxing" whic
 I had always precieved that there was a certain level of complexity to operating two machines at the same time (multiple keyboards/mice, using KVM, etc.) however, it's really quite simple:
 
   * World of Warcraft permits mulitple instances as-is.
-  * WoW also has a 'Windowed mode' for reducing your gaming experience down to a manageable 1024&#215;768 or even 800&#215;600 window.
+  * WoW also has a 'Windowed mode' for reducing your gaming experience down to a manageable 1024x768 or even 800x600 window.
 
 Now the final ingredient to this recipe is my trusty **1st-generation G15 keyboard**:
 
