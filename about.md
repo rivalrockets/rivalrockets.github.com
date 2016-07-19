@@ -13,23 +13,12 @@ categories:
 link_category:
   - Other Sites
 ---
-<p align="left">
-  <img style="border: 1px solid black; margin: 10px;" src="http://rivalrockets.com/blog/wp-content/uploads/2008/03/profile-pic.jpg" alt="profile-pic.jpg" width="323" height="430" />
-</p>
+![Me](/content/2008/03/profile-pic.jpg)
 
 This site is a side-project intended to facilitate discussion, nonsense, and _camaraderie_.
 
--
+My name is Kit Roed, [Welcome](/).
 
-<p style="text-align: left;">
-  <p style="text-align: left;">
-    My name is Kit Roed, <a href="http://rivalrockets.com/blog/">welcome</a>.
-  </p>
-  
-  <p>
-    With me, I bring some friends who'll make posts from time to time.
-  </p>
-  
-  <p>
-    There is no theme, no categorical focus for this blog, all discussion is welcome.
-  </p>
+With me, I bring some friends who'll make posts from time to time.
+
+There is no theme, no categorical focus for this blog, all discussion is welcome.
