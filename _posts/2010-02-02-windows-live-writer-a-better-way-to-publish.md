@@ -1,6 +1,6 @@
 ---
 id: 541
-title: 'Windows Live Writer &ndash; A better way to publish?'
+title: 'Windows Live Writer -- A better way to publish?'
 date: 2010-02-02T08:56:14+00:00
 author: Brian
 layout: post
@@ -25,4 +25,4 @@ So far, Live Writer has done an exemplary job of handling these tasks… I’m i
 
 [](http://keirann.deviantart.com/art/)[<img style="float: none; margin-left: auto; margin-right: auto; border-width: 0px;" src="/content/2010/02/image_thumb.png" border="0" alt="image" width="244" height="143" />](/content/2010/02/image.png) [](http://keirann.deviantart.com/art/)
 
-[<img class="aligncenter size-full wp-image-569" src="/content/2010/02/duplicate.jpg" alt="" width="708" height="109" />](/blog/2008/11/live-writer-to-hijack-all-attempts-at-making-excuses-for-not-writing-a-blog-post/)
+[<img class="aligncenter size-full wp-image-569" src="/content/2010/02/duplicate.jpg" alt="" width="708" height="109" />](/2008/11/live-writer-to-hijack-all-attempts-at-making-excuses-for-not-writing-a-blog-post/)
