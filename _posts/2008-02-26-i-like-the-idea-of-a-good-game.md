@@ -20,7 +20,7 @@ categories:
 
 I've come to notice a very prominent trend in my gaming repertoire: I like good video games.  In the last decade I have purchased over 100 games for various platforms (ranging from my trusty PSX to my beloved PC), and yet, I can count the number of games that I've 'passed' on one hand!
 
-It comes down to this: **I like the _idea_ of a good game.** It's really quite simple: I'm not necessarily buying these titles for their stories (although stories are certainly a strong selling point) I seem to be more interested in a game's execution.  I enjoy looking at how a game works&#8211;not in how it ends.  Sadly, before I've even begun to dig into the subtleties and nuances of a beloved new game, the lure and charms of a newly released "distraction" overcome me.
+It comes down to this: **I like the _idea_ of a good game.** It's really quite simple: I'm not necessarily buying these titles for their stories (although stories are certainly a strong selling point) I seem to be more interested in a game's execution.  I enjoy looking at how a game works--not in how it ends.  Sadly, before I've even begun to dig into the subtleties and nuances of a beloved new game, the lure and charms of a newly released "distraction" overcome me.
 
 The list I started at the beginning of this article contains a _small_ subset of the many titles I have purchased and have yet to complete.
 

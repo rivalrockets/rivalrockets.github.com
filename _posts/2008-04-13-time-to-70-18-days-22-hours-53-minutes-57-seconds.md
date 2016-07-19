@@ -50,7 +50,7 @@ On time to level...
   
 ** 
   
-Too long. While I had a lot of fun getting here, I cringe at the thought of doing it with another character. I like playing through a game 3-4 times with different characters, and this is simply not realistic with WoW. I've gotten at least 2-4 Diablo II characters to the 40&#8242;s-60&#8242;s. It doesn't help that the content can be very repetitive. The only purpose of a game it entertainment... is Wow more enjoyable because it takes so long to level? I think not. 100-200 hours would be a better story. I realize that things are better now, but frankly that was a strong point when I decided not to play wow before patch 2.3.
+Too long. While I had a lot of fun getting here, I cringe at the thought of doing it with another character. I like playing through a game 3-4 times with different characters, and this is simply not realistic with WoW. I've gotten at least 2-4 Diablo II characters to the 40's-60's. It doesn't help that the content can be very repetitive. The only purpose of a game it entertainment... is Wow more enjoyable because it takes so long to level? I think not. 100-200 hours would be a better story. I realize that things are better now, but frankly that was a strong point when I decided not to play wow before patch 2.3.
 
 **On my favorite zones...
   
@@ -60,7 +60,7 @@ Tanaris looks awesome... so do most of the blood elf zones. I really like Azshar
 
 **On Traveling...**
 
-So much better in outland. seriously, Azeroth is a joke. While it's cool for a bit, and instant travel everywhere would change the gameplay, it takes far to long to get anywhere in the old world. I've thought that the hearthstone should have a 30 min timer, and 2 possible zones &#8211; a main city and then a smaller city. Since level 40, I've always had my hearth set to a capital city. Why not have a secondary option as well?
+So much better in outland. seriously, Azeroth is a joke. While it's cool for a bit, and instant travel everywhere would change the gameplay, it takes far to long to get anywhere in the old world. I've thought that the hearthstone should have a 30 min timer, and 2 possible zones -- a main city and then a smaller city. Since level 40, I've always had my hearth set to a capital city. Why not have a secondary option as well?
 
 **On Instances...**
 

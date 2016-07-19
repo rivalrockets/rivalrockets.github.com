@@ -15,8 +15,8 @@ But never fear! BitTorrent works like a champ in times like these!
 
 New features to get giddy about:
 
-  * Xorg 7.3 &#8211; the desktop engine, with some changes that have emphasis on ease of resolution and dpi management
-  * Gnome 2.22 &#8211; newest release of the Gnome desktop, very polished interface (tends to feel like OSX to me)
+  * Xorg 7.3 -- the desktop engine, with some changes that have emphasis on ease of resolution and dpi management
+  * Gnome 2.22 -- newest release of the Gnome desktop, very polished interface (tends to feel like OSX to me)
   * Added default applications: _Transmission_ for BitTorrent protocol, _Brasero_ for integrated CD/DVD burning
   * And more that I won't bother to list
 

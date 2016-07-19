@@ -21,7 +21,7 @@ I won't call it an impulse buy, but it certainly wasn't a completely cautious pu
 </p>
 
 <p align="left">
-  It's for my media PC in the hopes of replacing my gargantuan Bluetooth Microsoft Multimedia Keyboard. This should be the best thing that's happened to my HTPC since&#8211;well since it got a microATX form factor.
+  It's for my media PC in the hopes of replacing my gargantuan Bluetooth Microsoft Multimedia Keyboard. This should be the best thing that's happened to my HTPC since--well since it got a microATX form factor.
 </p>
 
 <p align="center">

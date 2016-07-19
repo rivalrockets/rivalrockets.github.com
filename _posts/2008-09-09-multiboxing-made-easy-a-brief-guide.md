@@ -50,12 +50,12 @@ For this demonstration, my "slave" account is my wife's level 62 priest who make
 
 ### The basic multiboxing strategy is as follows:
 
-  1. **Set 'slave' character to follow the 'master' character** &#8211; this is accomplished by hard-coding the sequence into a G15 macro titled "Follow Me": 
+  1. **Set 'slave' character to follow the 'master' character** -- this is accomplished by hard-coding the sequence into a G15 macro titled "Follow Me": 
       1. Alt-Tab, to change focus from the master window to the slave's window.
       2. "/target _<character name>_" this command, hard-coded to the master character's name guarantees the right character is being followed.
-      3. "/f" &#8211; to set the slave character to follow
+      3. "/f" -- to set the slave character to follow
       4. Alt-Tab  to return focus to the master's window.
-  2. **Use slave healer & support functions when necessary** &#8211; this requires the use of multiple "G-Keys" my personal preference is to use two macro sets (M1 and M2) one for solo multiboxing, and one for full group use.  This is accomplished in much the same way that the follow command is accomplished: 
+  2. **Use slave healer & support functions when necessary** -- this requires the use of multiple "G-Keys" my personal preference is to use two macro sets (M1 and M2) one for solo multiboxing, and one for full group use.  This is accomplished in much the same way that the follow command is accomplished: 
       1. Alt-Tab
       2. F1, F2, F3, F4, or F5 to select the desired party member (note: use one G-key per party member)
       3. Cast desired spell
@@ -173,7 +173,7 @@ So the layout for a priest command set on the G15 would go something like this:
 
 This layout resides in memory set one (M1) on my keyboard its purpose is for soloing with the multibox slave assisting the master.
 
-Set 2&#8242;s (M2) macro layout focuses on full party play such as instances or group quests by switching up the layout to cover heals/buffs for up to five party members Note the use of two major spells in columnar format:
+Set 2's (M2) macro layout focuses on full party play such as instances or group quests by switching up the layout to cover heals/buffs for up to five party members Note the use of two major spells in columnar format:
 
 <table style="height: 348px;" border="1" width="400">
   <tr>

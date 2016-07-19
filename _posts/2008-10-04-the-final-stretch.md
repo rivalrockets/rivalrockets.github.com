@@ -26,7 +26,7 @@ categories:
   </p>
 </div>
 
-It's been a slow, and rather lame-ass march, but it at last seems like I'm closing the gap to that epic 5,000 gold in World of Warcraft that shall guarantee me the right to ride a flying mount capable of speeds in excess of 279% percent my normal running speed.  They are true SR-71&#8242;s of Outland, and after being badly beat to the finish line by Brian's wife, Kim, I'm more anxious than ever to prove that I don't totally suck at earning fake money.
+It's been a slow, and rather lame-ass march, but it at last seems like I'm closing the gap to that epic 5,000 gold in World of Warcraft that shall guarantee me the right to ride a flying mount capable of speeds in excess of 279% percent my normal running speed.  They are true SR-71's of Outland, and after being badly beat to the finish line by Brian's wife, Kim, I'm more anxious than ever to prove that I don't totally suck at earning fake money.
 
 Ironically, however, it seems that _real_ money is holding me back from my position as a flying ace.  My WoW account runs out on the 7th of October.  I'm still kicking my self for not having been able to save up the 5k over the summer, but pulling off a stunt like that would require me to live as a hermit in an Internet accessible cave high in the Andes Mountains above Chile.
 
