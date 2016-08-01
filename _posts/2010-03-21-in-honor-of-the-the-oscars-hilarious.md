@@ -14,3 +14,5 @@ categories:
   - Humor
 ---
 Sean gets credit for finding this one.  Watch in HD fullscreen for the full effect!  Note the particular attention to detail; the cinematography is great!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rbhrz1-4hN4" frameborder="0" allowfullscreen></iframe>
