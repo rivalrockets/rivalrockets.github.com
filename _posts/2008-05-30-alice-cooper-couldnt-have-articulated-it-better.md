@@ -21,7 +21,7 @@ Then, in another computer game, I will teach myself and then Kit the workings of
 
 On a non-computerized level, I hope to further develope on of my more recent characters, Ina May, a wee Scottish Lass of 12 who has a very Calvin-esque sense of adventure and has a habit of naming things arbitrarily.  The strange part is that when she names things, they're forced to come to life, thus opening up the doors to a whole swath of psychological and mental problems for anything immobile or of differing consistencies.  I wish to cultivate a sort of comic-team relationship between her and NGC-3982 via the Big-Brothers Big-Sisters program.
 
-On a final note, I really really really reeeeeeaaalllllyyyy want to read the last derned Harry Potter book.Â  Wish me luck, and any aid you choose to give me is greatly appreciated!
+On a final note, I really really really reeeeeeaaalllllyyyy want to read the last derned Harry Potter book.  Wish me luck, and any aid you choose to give me is greatly appreciated!
 
 I proclaim this the SUMMER OF GEORGE!!!
 

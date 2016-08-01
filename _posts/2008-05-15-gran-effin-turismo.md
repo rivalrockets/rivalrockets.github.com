@@ -24,4 +24,4 @@ Racing games have not quite delivered for me yet, there's an experience that I'm
 
 I personally believe that the greatest enjoyment I could receive from a classic series like Gran Turismo was beating some _human_ chap in a closely matched race.
 
-My appeal sirs and madams is this: can this racing experience found on the console be replicated on my beloved PC?Â  Does it even exist?
+My appeal sirs and madams is this: can this racing experience found on the console be replicated on my beloved PC?  Does it even exist?
