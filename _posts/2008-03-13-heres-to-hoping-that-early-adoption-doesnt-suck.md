@@ -25,7 +25,7 @@ I won't call it an impulse buy, but it certainly wasn't a completely cautious pu
 </p>
 
 <p align="center">
-  <a title="Airwalkerâ€™s microATX case" rel="attachment wp-att-48"><img src="/content/2008/03/airwalker_build.jpg" alt="Airwalkerâ€™s microATX case" /></a>
+  <a title="Airwalker's microATX case" rel="attachment wp-att-48"><img src="/content/2008/03/airwalker_build.jpg" alt="Airwalker's microATX case" /></a>
 </p>
 
 <p align="left">
