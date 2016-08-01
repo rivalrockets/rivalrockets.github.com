@@ -1,6 +1,6 @@
 ---
 id: 532
-title: 'Music translated to ASL. It&rsquo;s worth your time.'
+title: Music translated to ASL. It's worth your time.
 date: 2009-12-05T02:22:54+00:00
 author: Kit
 layout: post

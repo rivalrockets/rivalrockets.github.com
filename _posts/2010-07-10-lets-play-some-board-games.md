@@ -1,6 +1,6 @@
 ---
 id: 586
-title: 'Let&rsquo;s Play Some Board Games'
+title: Let's Play Some Board Games
 date: 2010-07-10T19:43:27+00:00
 author: Brian
 layout: post
