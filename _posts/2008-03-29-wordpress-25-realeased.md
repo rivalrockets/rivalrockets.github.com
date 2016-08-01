@@ -35,7 +35,7 @@ categories:
 > 
 > **Few-click plugin upgrades** --- if the plugins you use are part of the plugin directory since 2.3 we've told you when they have an update available. Now we take that to the next logical step --- downloading and installing the upgrade for you. This is dependent a little bit on your host setup, and it may ask you for your FTP password much like OS X or Windows will ask you for a password, but it works well on majority of hosts we were able to test, your mileage may very, plugins in mirror may be larger than they appear.
 > 
-> **Friendlier visual post editor** --- I'm not sure how to articulate this improvement except to say â€œit doesn't mess with your code anymore.â€ We're now using version 3.0 of TinyMCE, which means better compatibility with Safari, and we've paid particular attention this release to its integration and interaction with complex HTML. It also now has a â€œno-distractionsâ€ mode which is like Writeroom for your browser.
+> **Friendlier visual post editor** --- I'm not sure how to articulate this improvement except to say "it doesn't mess with your code anymore." We're now using version 3.0 of TinyMCE, which means better compatibility with Safari, and we've paid particular attention this release to its integration and interaction with complex HTML. It also now has a "no-distractions" mode which is like Writeroom for your browser.
 > 
 > **Built-in galleries** --- when you take advantage of multi-file upload to upload a bunch of photos, we have a new shortcode that lets you to easily embed galleries by just putting \[ gallery\] (without the space) in your post. It'll display all your thumbnails and captions and each will link each to a page where people can comment on the individual photos. I've been using this feature on my blog and have already uploaded over [1,200 pictures into 23 galleries](http://ma.tt/category/gallery/). The shortcode has some hidden options too, [check out this documentation](http://codex.wordpress.org/Using_the_gallery_shortcode).
 > 
@@ -47,7 +47,7 @@ categories:
 > 
 > **Secure cookies** --- cookies are now encrypted based on the protocol described [in this PDF paper](http://www.cse.msu.edu/%7Ealexliu/publications/Cookie/cookie.pdf). which is something like `user name|expiration time|HMAC( user name|expiration time, k)` where `k = HMAC(user name|expiration time, sk)` and where `sk` is a secret key, which you can define in your config.
 > 
-> **Easy taxonomy and URL creation** --- probably best illustrated with an example: I can call `register_taxonomy()` with [a few arguments](http://trac.wordpress.org/attachment/ticket/6357/taxes.php) to register a â€œpeopleâ€ taxonomy and whenever I edit an image I'll see a UI like tags has for identifying the people in a photo, and these will be URL addressable with `/person/firstname-lastname/`. All with a single function call.
+> **Easy taxonomy and URL creation** --- probably best illustrated with an example: I can call `register_taxonomy()` with [a few arguments](http://trac.wordpress.org/attachment/ticket/6357/taxes.php) to register a "people" taxonomy and whenever I edit an image I'll see a UI like tags has for identifying the people in a photo, and these will be URL addressable with `/person/firstname-lastname/`. All with a single function call.
 > 
 > **Inline documentation** --- the vast majority of the new code going into WordPress include inline documentation that explains the functions and documents their arguments.
 > 
@@ -55,6 +55,6 @@ categories:
 > 
 > **$wpdb->prepare()** --- now almost all of the SQL in WordPress is prepared first, and the same functions are available to your plugins. This should prevent elementary SQL escaping issues.
 > 
-> **Media buttons** --- the add media buttons above the post are both expandable, so you could have an â€œAdd Google Mapâ€ button if you like, They can be overridden, so if you think you can do the video or audio tab better than we have you can replace the default.
+> **Media buttons** --- the add media buttons above the post are both expandable, so you could have an "Add Google Map" button if you like, They can be overridden, so if you think you can do the video or audio tab better than we have you can replace the default.
 > 
 > **Shortcode API** --- the new gallery functionality is powered by the new shortcode API. Shortcodes are little bracket-delineated strings that can be magically expanded at runtime to something more interesting. They give users a short, easy to type and copy/paste string they can move around their post without worrying about messing up complex HTML or embed codes. [The Shortcode API is fully documented](http://codex.wordpress.org/Shortcode_API).
