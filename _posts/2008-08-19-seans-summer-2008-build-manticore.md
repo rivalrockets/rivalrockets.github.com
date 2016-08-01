@@ -53,7 +53,7 @@ Three Hundred actually has a nice build inside, this picture does it no justice.
 ![](/content/2008/08/2719054158_a162ffa8ee.jpg)
 
 
-Donated parts mixed in with new parts—all freshly installed, ready for first power-on test.
+Donated parts mixed in with new parts---all freshly installed, ready for first power-on test.
 
 ![](/content/2008/08/2719055796_7699a59176.jpg)
 

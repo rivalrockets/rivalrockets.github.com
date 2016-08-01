@@ -45,7 +45,7 @@ categories:
               </p>
               
               <p>
-                To find the perfect look, I've been trolling the theme vault at <a href="http://themes.wordpress.net" target="_blank">themes.wordpress.net</a> trying to find one better than the last. If anyone else thinks they can find the theme style that has what it takes to make this site look good while retaining functionality—”speak up!
+                To find the perfect look, I've been trolling the theme vault at <a href="http://themes.wordpress.net" target="_blank">themes.wordpress.net</a> trying to find one better than the last. If anyone else thinks they can find the theme style that has what it takes to make this site look good while retaining functionality---”speak up!
               </p>
               
               <p>

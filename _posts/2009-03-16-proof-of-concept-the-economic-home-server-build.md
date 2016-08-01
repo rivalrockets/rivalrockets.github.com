@@ -60,7 +60,7 @@ Okay, so now for some pictures:
 
 ## Conclusion
 
-So far, I've been quite pleased with how the build went—there were a couple of snags when I set out to install the OS from a USB stick, my advice: just plunk down the cash for an external CD drive and save yourself the grief.
+So far, I've been quite pleased with how the build went---there were a couple of snags when I set out to install the OS from a USB stick, my advice: just plunk down the cash for an external CD drive and save yourself the grief.
 
 ### Low Power Consumption, Kills 66% Fewer Baby Seals!
 
