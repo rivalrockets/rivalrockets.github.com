@@ -51,4 +51,4 @@ Comments? Questions?
 
 PS: Nice ice-blue theme, Kit!
 
-PPS: Oh...my...gosh.  The new banner is indescribably beautiful!
+PPS: Oh...my...gosh.  The new banner is indescribably beautiful!

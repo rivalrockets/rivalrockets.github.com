@@ -13,9 +13,9 @@ dsq_thread_id:
 categories:
   - Web
 ---
-Earlier last year I discovered the music of My Chemical Romance through this youtube [video](http://www.youtube.com/watch?v=V9rGlcBF4_A): 
+Earlier last year I discovered the music of My Chemical Romance through this youtube [video](http://www.youtube.com/watch?v=V9rGlcBF4_A): 
 
- 
+ 
 
 I really liked the song but I didn't know what it was at first, eventually finding out it was "the ghost of you". After Kit exposed me to his MCR collection I quickly became a fan. Now after a year I come back to this video to find :
 

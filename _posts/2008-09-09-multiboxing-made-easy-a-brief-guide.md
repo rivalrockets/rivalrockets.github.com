@@ -54,12 +54,12 @@ For this demonstration, my "slave" account is my wife's level 62 priest who make
       1. Alt-Tab, to change focus from the master window to the slave's window.
       2. "/target _<character name>_" this command, hard-coded to the master character's name guarantees the right character is being followed.
       3. "/f" -- to set the slave character to follow
-      4. Alt-Tab  to return focus to the master's window.
-  2. **Use slave healer & support functions when necessary** -- this requires the use of multiple "G-Keys" my personal preference is to use two macro sets (M1 and M2) one for solo multiboxing, and one for full group use.  This is accomplished in much the same way that the follow command is accomplished: 
+      4. Alt-Tab  to return focus to the master's window.
+  2. **Use slave healer & support functions when necessary** -- this requires the use of multiple "G-Keys" my personal preference is to use two macro sets (M1 and M2) one for solo multiboxing, and one for full group use.  This is accomplished in much the same way that the follow command is accomplished: 
       1. Alt-Tab
       2. F1, F2, F3, F4, or F5 to select the desired party member (note: use one G-key per party member)
       3. Cast desired spell
-      4. Alt-Tab  to return focus to the master's window.
+      4. Alt-Tab  to return focus to the master's window.
 
 Note that during battle, healers need to be standing still to get their heals cast, so be sure to use the "stop follow" command
 
@@ -283,4 +283,4 @@ Set 2's (M2) macro layout focuses on full party play such as instances or group 
   </tr>
 </table>
 
-Note that the importance of the Start/Stop Following Master commands is not to be underestimated!  To avoid interrupting healing spells during cast, the slave needs to be stationary.  Forcing the master to remember to hold still during critical healing moments is not an effective way to go about it, quickly "parking" the healer with the "Stop Following" (Alt+Tab, down arrow, Alt+Tab) command resolves this.
+Note that the importance of the Start/Stop Following Master commands is not to be underestimated!  To avoid interrupting healing spells during cast, the slave needs to be stationary.  Forcing the master to remember to hold still during critical healing moments is not an effective way to go about it, quickly "parking" the healer with the "Stop Following" (Alt+Tab, down arrow, Alt+Tab) command resolves this.

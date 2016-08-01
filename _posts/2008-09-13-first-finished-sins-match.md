@@ -28,11 +28,11 @@ categories:
   - Gaming
   - Web
 ---
-Kit and I finished our first "Comp Stomp" in _Sins of a Solar Empire_.  I gotta say, **this game is one of THE most beautiful RTS's I've ever played**.  It's the type of game that should be
+Kit and I finished our first "Comp Stomp" in _Sins of a Solar Empire_.  I gotta say, **this game is one of THE most beautiful RTS's I've ever played**.  It's the type of game that should be
 
   1. Played in the dark when possible, and
   2. Played with slow, elegant classical music playing in the background.
 
-The design of ships and attention to detail never ceases to blow my mind.  The proposed mass Sins match is still planned, by the way.  We need only to wait for certain conditions to be met.  These conditions shall be achieved as early as Tuesday the 16<sup>th</sup>.
+The design of ships and attention to detail never ceases to blow my mind.  The proposed mass Sins match is still planned, by the way.  We need only to wait for certain conditions to be met.  These conditions shall be achieved as early as Tuesday the 16<sup>th</sup>.
 
 ![Sean's Webcam](/content/2008/09/2857294894_ff8b384f64.jpg)

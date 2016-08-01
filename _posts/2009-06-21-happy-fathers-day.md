@@ -11,6 +11,6 @@ aktt_notify_twitter:
 categories:
   - Personal
 ---
-Being a dad can be taxing, but I'd definitely do it again (commit to being a dad, that is).  This one goes out to my beautiful wife and daughter, thanks for making the journey an interesting one!
+Being a dad can be taxing, but I'd definitely do it again (commit to being a dad, that is).  This one goes out to my beautiful wife and daughter, thanks for making the journey an interesting one!
 
 Also to all the other dads out there... enjoy your day and make the most of it!

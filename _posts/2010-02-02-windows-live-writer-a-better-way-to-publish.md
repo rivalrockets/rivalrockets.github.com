@@ -14,7 +14,7 @@ categories:
   - Blog
   - Web
 ---
-It’s no secret that the Host of this blog and the guest writers post rather-infrequently.   My pet theory is that the WordPress editor is so piss-poor for handling images and other tasks that it’s not worth the trouble.    I’ve known that Windows Live writer has been available for some time, but I’ve just now gotten around to installing it.   I already did a few test posts to “my” blog: <http://brnvndr.blogspot.com/>, and it worked seamlessly.  In no particular order, here are the qualities I’m looking for publishing:
+It’s no secret that the Host of this blog and the guest writers post rather-infrequently.   My pet theory is that the WordPress editor is so piss-poor for handling images and other tasks that it’s not worth the trouble.    I’ve known that Windows Live writer has been available for some time, but I’ve just now gotten around to installing it.   I already did a few test posts to “my” blog: <http://brnvndr.blogspot.com/>, and it worked seamlessly.  In no particular order, here are the qualities I’m looking for publishing:
 
   * rich text editing – I want to feel like I’m writing in a real word processor and not some crappy little widget.
   * Seamless drafting, publishing, editing – I don’t want to have aborted posts because of some browser timeout, or accidental posts I wasn’t ready to publish, etc

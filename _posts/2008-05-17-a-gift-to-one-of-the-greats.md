@@ -13,8 +13,8 @@ dsq_thread_id:
 categories:
   - Art
 ---
-Some of you know that last year I came to be an acquaintance of Lauren Faust, wife of Craig McCracken and head writer for the show "Foster's Home For Imaginary Friends" and formerly the "Powerpuff Girls."  I stumbled upon her Deviant Art page by accident, and have since become a regular reader/commenter on her blog.  She has, outside of her work, a few other storylines and characters that aren't in the animated realm.  One of them I came across was this thing in her <a href="http://fyre-flye.deviantart.com/art/ADDY-23292808" target="_blank">gallery</a>.
+Some of you know that last year I came to be an acquaintance of Lauren Faust, wife of Craig McCracken and head writer for the show "Foster's Home For Imaginary Friends" and formerly the "Powerpuff Girls."  I stumbled upon her Deviant Art page by accident, and have since become a regular reader/commenter on her blog.  She has, outside of her work, a few other storylines and characters that aren't in the animated realm.  One of them I came across was this thing in her <a href="http://fyre-flye.deviantart.com/art/ADDY-23292808" target="_blank">gallery</a>.
 
-I decided to draw some fanart for her, and last night I shopped a promotional poster of sorts for Addy.  I think I'm starting to get the hang of photoshop at last.
+I decided to draw some fanart for her, and last night I shopped a promotional poster of sorts for Addy.  I think I'm starting to get the hang of photoshop at last.
 
 [<img class="alignnone size-medium wp-image-116" title="Addy" src="/content/2008/05/addy-copy-400x363.jpg" alt="\" width="400" height="363" />](/content/2008/05/addy-copy.jpg)

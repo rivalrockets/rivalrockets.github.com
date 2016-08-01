@@ -29,5 +29,5 @@ I won't call it an impulse buy, but it certainly wasn't a completely cautious pu
 </p>
 
 <p align="left">
-  The diNovo Mini sports a thumb typing style with back-lit keys and a flip open cover to cover it up when it's not in use. I have no guarantee that it'll play nice with Airwalker (a Linux-blooded machine).  But here's to hope!
+  The diNovo Mini sports a thumb typing style with back-lit keys and a flip open cover to cover it up when it's not in use. I have no guarantee that it'll play nice with Airwalker (a Linux-blooded machine).  But here's to hope!
 </p>

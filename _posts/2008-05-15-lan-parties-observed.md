@@ -23,7 +23,7 @@ categories:
 > </p>
 > 
 > <p class="MsoNormal">
->   <span style="font-size: x-small; font-family: Arial;"><span style="font-size: 10pt; font-family: Arial;">Bring your laptops, desktops, <span style="text-decoration: line-through;"> beer</span>, and snacks.   If your computer is not working, Kit will gladly work on it while you play on his.</span></span>
+>   <span style="font-size: x-small; font-family: Arial;"><span style="font-size: 10pt; font-family: Arial;">Bring your laptops, desktops, <span style="text-decoration: line-through;"> beer</span>, and snacks.   If your computer is not working, Kit will gladly work on it while you play on his.</span></span>
 > </p>
 > 
 > <p class="MsoNormal">

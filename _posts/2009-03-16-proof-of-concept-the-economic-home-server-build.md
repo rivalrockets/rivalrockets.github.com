@@ -14,7 +14,7 @@ categories:
   - Computers
   - PC Builds
 ---
-Last weekend I had just received all the parts to complete what I felt was a pretty exiting build.  With the primary goal of low power consumption and secondary goal of fits-in-my-house, I chose MSI's new <a href="http://www.amazon.com/gp/product/B001R1X0I0?ie=UTF8&tag=rivalroccom-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001R1X0I0" target="_blank">"Nettop" barebone</a>:
+Last weekend I had just received all the parts to complete what I felt was a pretty exiting build.  With the primary goal of low power consumption and secondary goal of fits-in-my-house, I chose MSI's new <a href="http://www.amazon.com/gp/product/B001R1X0I0?ie=UTF8&tag=rivalroccom-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001R1X0I0" target="_blank">"Nettop" barebone</a>:
 
 ### MSI Wind Nettop 100
 
@@ -50,11 +50,11 @@ Okay, so now for some pictures:
 
 ### MSI "Net_server_" Final Specs
 
-  * CPU:  Intel Atom 330 Dual-core @ 1.6GHz with HTT 
+  * CPU:  Intel Atom 330 Dual-core @ 1.6GHz with HTT 
       * This processor appears as four logical cores to the OS which could come in handy for dealing with many threads at once (simultaneous background tasks and multiple server requests)
-  * Memory:  2GB SODIMM 
-      * For the stripped down Linux Distro I'm using, this is overkill.  But at $19 there was no reason not to go for max capacity!
-  * Storage:  74GB Raptor 10,000 RPM 
+  * Memory:  2GB SODIMM 
+      * For the stripped down Linux Distro I'm using, this is overkill.  But at $19 there was no reason not to go for max capacity!
+  * Storage:  74GB Raptor 10,000 RPM 
       * A trusty old standby from a previous PC build, rated at twice the lifetime of standard hard drives and for continuous operation, this is server-grade stuff.
   * Network: Gigabit Ethernet
 
@@ -64,4 +64,4 @@ So far, I've been quite pleased with how the build went—there were a couple of
 
 ### Low Power Consumption, Kills 66% Fewer Baby Seals!
 
-Operating between 30-40 watts, the Nettop platform sucks far less electricity from the wall than my daily PC (which _idles_ at around 150 watts!), the Intel Atom has some serious "green" cred. (sorry Brian, I couldn't avoid using the preppy word <g>).  Not to mention, stands to take a chunk out of monthly power bill.
+Operating between 30-40 watts, the Nettop platform sucks far less electricity from the wall than my daily PC (which _idles_ at around 150 watts!), the Intel Atom has some serious "green" cred. (sorry Brian, I couldn't avoid using the preppy word <g>).  Not to mention, stands to take a chunk out of monthly power bill.

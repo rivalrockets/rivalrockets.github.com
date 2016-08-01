@@ -12,6 +12,6 @@ aktt_notify_twitter:
 categories:
   - Computers
 ---
-Dang gap in posts again!  Well Kit and I are going to write a nice long post really soon about my summer computer upgrades. Sit tight.
+Dang gap in posts again!  Well Kit and I are going to write a nice long post really soon about my summer computer upgrades. Sit tight.
 
 ...I love to pretend we have an audience!

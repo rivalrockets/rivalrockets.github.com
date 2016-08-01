@@ -13,6 +13,6 @@ dsq_thread_id:
 categories:
   - Humor
 ---
-I'll believe Pally's can PvP.  Until then...
+I'll believe Pally's can PvP.  Until then...
 
 [<img class="alignnone size-medium wp-image-97" src="/content/2008/04/sheep_wings1-300x242.jpg" alt="" width="300" height="242" />](/content/2008/04/sheep_wings1.jpg)

@@ -13,4 +13,4 @@ dsq_thread_id:
 categories:
   - Humor
 ---
-Sean gets credit for finding this one.  Watch in HD fullscreen for the full effect!  Note the particular attention to detail; the cinematography is great!
+Sean gets credit for finding this one.  Watch in HD fullscreen for the full effect!  Note the particular attention to detail; the cinematography is great!

@@ -14,9 +14,9 @@ categories:
   - Art
   - How to
 ---
-Well, not really.  But "Basic Color Blending" by [Andantonius](http://andantonius.deviantart.com/) from Deviant Art, found [here](http://andantonius.deviantart.com/art/Andart-Basic-Blending-101327993), is one of the most insightful and helpful tutorials I've ever seen for digital coloring.
+Well, not really.  But "Basic Color Blending" by [Andantonius](http://andantonius.deviantart.com/) from Deviant Art, found [here](http://andantonius.deviantart.com/art/Andart-Basic-Blending-101327993), is one of the most insightful and helpful tutorials I've ever seen for digital coloring.
 
-Credit goes to Kit for finding this amazing video first.  He showed it to me a while back, and I just now got to watching it since my web speed was increased.
+Credit goes to Kit for finding this amazing video first.  He showed it to me a while back, and I just now got to watching it since my web speed was increased.
 
 Here's some before/after images showing my improvement after being enlightened by Andantonius.
 
@@ -28,6 +28,6 @@ _**After:**_
 
 <img class="alignnone size-full wp-image-491" title="Fauntleroy-Ranvier-Refsheet" src="/content/2009/08/Fauntleroy-Ranvier-Refsheet1.jpg" alt="Fauntleroy-Ranvier-Refsheet" />
 
-If one looks closely, the color blending, highlights,  and shading are of considerably higher quality!
+If one looks closely, the color blending, highlights,  and shading are of considerably higher quality!
 
 Thanks to Andantonius, my future work is sure to be something I can take pride in.

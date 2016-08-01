@@ -72,4 +72,4 @@ Power-on checks out, and the Windows XP OS switched from Sean's old nForce3 to t
 
 ![](/content/2008/08/2718243357_db7ce178d4.jpg)
 
-Grats Sean!  Well done!
+Grats Sean!  Well done!

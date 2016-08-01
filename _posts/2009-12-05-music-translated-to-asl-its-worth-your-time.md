@@ -15,7 +15,7 @@ categories:
 ---
 Stephen Torrence has done a great service by recording and sharing a number of his translations of songs that catch his attention into American Sign Language (ASL).
 
-HowStuffWorks.com <a href="http://www.youtube.com/watch?v=Rd1NX_x_PnY&NR=1" target="_blank">interviewed</a> Stephen to get some insight into the process he goes through in writing his translations and the details may surprise you.  The effort he puts into each of his translations shows, and it’s no wonder!  Each one of his recordings are the result of take after take, he’s not simply taking the words of the songs and dryly regurgitating them—he’s  carefully performing each phrase and verse, employing full use of his face and manner to great effect.
+HowStuffWorks.com <a href="http://www.youtube.com/watch?v=Rd1NX_x_PnY&NR=1" target="_blank">interviewed</a> Stephen to get some insight into the process he goes through in writing his translations and the details may surprise you.  The effort he puts into each of his translations shows, and it’s no wonder!  Each one of his recordings are the result of take after take, he’s not simply taking the words of the songs and dryly regurgitating them—he’s  carefully performing each phrase and verse, employing full use of his face and manner to great effect.
 
 So, if you have even a passing interest in ASL and seeing some impressive performances, I recommend you take a look at Stephen’s collection on his <a href="http://www.youtube.com/user/CaptainValor" target="_blank">YouTube page</a>.
 
