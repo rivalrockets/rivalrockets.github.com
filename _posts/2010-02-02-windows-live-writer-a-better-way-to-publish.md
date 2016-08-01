@@ -16,10 +16,10 @@ categories:
 ---
 It’s no secret that the Host of this blog and the guest writers post rather-infrequently.   My pet theory is that the WordPress editor is so piss-poor for handling images and other tasks that it’s not worth the trouble.    I’ve known that Windows Live writer has been available for some time, but I’ve just now gotten around to installing it.   I already did a few test posts to "my" blog: <http://brnvndr.blogspot.com/>, and it worked seamlessly.  In no particular order, here are the qualities I’m looking for publishing:
 
-  * rich text editing – I want to feel like I’m writing in a real word processor and not some crappy little widget.
-  * Seamless drafting, publishing, editing – I don’t want to have aborted posts because of some browser timeout, or accidental posts I wasn’t ready to publish, etc
-  * Simple image handling – It’s 2010, where is my drag-and-drop picture inserts into the text body?
-  * Post Preview – I want to know how it looks before I publish.
+  * rich text editing --- I want to feel like I’m writing in a real word processor and not some crappy little widget.
+  * Seamless drafting, publishing, editing --- I don’t want to have aborted posts because of some browser timeout, or accidental posts I wasn’t ready to publish, etc
+  * Simple image handling --- It’s 2010, where is my drag-and-drop picture inserts into the text body?
+  * Post Preview --- I want to know how it looks before I publish.
 
 So far, Live Writer has done an exemplary job of handling these tasks… I’m impressed
 
