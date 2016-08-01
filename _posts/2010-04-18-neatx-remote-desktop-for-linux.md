@@ -14,7 +14,7 @@ categories:
   - Computers
   - Linux
 ---
-I had never even heard of NX technology until I began researching better ways to set up a VNC capable server on an Ubuntu machine that I had planned on running “headless”.  To make matters more confusing, this promising technology is scarcely documented, so I’m putting my findings here.
+I had never even heard of NX technology until I began researching better ways to set up a VNC capable server on an Ubuntu machine that I had planned on running "headless".  To make matters more confusing, this promising technology is scarcely documented, so I’m putting my findings here.
 
 NX Technology, to briefly summarize, is similar in concept to RDP or Terminal Services on Windows, it basically provides a network ready way to log in and connect to a graphical desktop environment on a computer that you are not physically in front of.  The X Window System, the de-facto graphical backbone for Linux, has been able to send GUI over the network for years, but in practice it has proven inefficient and only feasible on the fastest of networks.  NX on the other hand, uses a combination of compression and caching on top of traditional X11 making for a much more bearable remote desktop experience.  As always, Wikipedia has a <a href="http://en.wikipedia.org/wiki/NX_technology" target="_blank">better explanation</a> than I’m able to provide here.
 

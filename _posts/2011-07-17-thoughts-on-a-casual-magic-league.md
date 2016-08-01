@@ -17,7 +17,7 @@ Now that I’ve been playing Magic the Gathering for about six months, I have a 
 
   * Casually with Friends
   * Online with the World!
-  * Organized play at “local” events, and occasionally larger regional gatherings i.e. FNM, Grand Prix’s etc.
+  * Organized play at "local" events, and occasionally larger regional gatherings i.e. FNM, Grand Prix’s etc.
 
 This post is about the first way.   I’ve tried the other two ways, which can be fun, but are $$$.    My goal is to organize a weekly/bi-weekly event that is fun but doesn’t cost a lot of money.   
 
@@ -27,14 +27,14 @@ Magic is an immense game, but is broken up into various formats.  The flavor of 
   * Standard – only recent cards allowed
   * Pauper – only common cards allowed.   
   * Extended – allow cards from the past few years
-  * Modern – allow cards from ~8th edition on, typically if it has the “modern” looking border/text
+  * Modern – allow cards from ~8th edition on, typically if it has the "modern" looking border/text
   * Vintage / Legacy – Because $1500 decks are cool, amirite?
 
   * Multiplayer 
-  * Commander / EDH – 40 life, 100 card deck with no duplicates, legendary creature designated as the “general”.   Basically @kydoon’s dream format
+  * Commander / EDH – 40 life, 100 card deck with no duplicates, legendary creature designated as the "general".   Basically @kydoon’s dream format
   * Free-for-All – Sit back and pretend like you have bad cards/hand, otherwise you will be dead in two turns.
   * Two headed Giant – 4 players, two on each time – shared 30 life total
-  * Emperor – 6 players, 3 on each time, one person on each team is the “emperor”, and if dies the team loses
+  * Emperor – 6 players, 3 on each time, one person on each team is the "emperor", and if dies the team loses
 
   * Limited
   * Booster Draft 4-10 players, each person has 3 packs.  People sit around a table, open 1 pack, pick a card, then pass left or right.  Everyone picks this way until all cards picked (you own what you pick, not what’s in the pack), then next pack is opened.   Then, each players takes the 40+ cards they picked, and builds a 40 card deck with any number of basic lands (provided separate from the 3 packs).    Then players play a 3-5 round tournament

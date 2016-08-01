@@ -19,4 +19,4 @@ HowStuffWorks.com <a href="http://www.youtube.com/watch?v=Rd1NX_x_PnY&NR=1" targ
 
 So, if you have even a passing interest in ASL and seeing some impressive performances, I recommend you take a look at Stephen’s collection on his <a href="http://www.youtube.com/user/CaptainValor" target="_blank">YouTube page</a>.
 
-And with that, I leave you with the song that got me here: Stephen’s excellent performance of Jonathan Coulton’s “Still Alive,” Enjoy.
+And with that, I leave you with the song that got me here: Stephen’s excellent performance of Jonathan Coulton’s "Still Alive," Enjoy.
