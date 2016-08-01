@@ -17,7 +17,7 @@ categories:
 
 Garry Newman's outstanding HL2 sandbox mod keeps getting better and better, one of the most notable recent changes is the addition of new vehicle types: Chairs!
 
-As veteran Garry's Mod players will note, this is a _huge_ dealâ€”before this, there were only the heavy and cumbersome Prisoner Pods to work with.Â  So, kudos Garry!
+As veteran Garry's Mod players will note, this is a _huge_ deal---before this, there were only the heavy and cumbersome Prisoner Pods to work with.Â  So, kudos Garry!
 
 I'll post a couple videos of Garry's Mod action soon!
 
