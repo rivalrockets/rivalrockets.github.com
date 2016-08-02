@@ -21,16 +21,10 @@ As veteran Garry's Mod players will note, this is a _huge_ deal---before this, t
 
 I'll post a couple videos of Garry's Mod action soon!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZXbZfnVLHp0" frameborder="0" allowfullscreen></iframe>
+
 Apologies for the poor YouTube quality, the video got over-compressed, I'll have to upload a better take.  To explain what is going on in this video: I had created a flying vehicle (let's call it the podcopter) and Sean had build this rather frightening looking car.  We decided to compare top speeds of or respective vehicles and well it turns out that Sean had superior acceleration but we ultimately had the same top speed.  Sean also had one surprise for me toward the end of the race, watch and enjoy :-)
-  
-
-
-<center>
-  <br /> <br />
-</center>
 
 **Update:** Here's the 'higher-quality' I promised, it's the outside shot of my 'hover-pod' what do you think?
 
-<center>
-  <br /> <br />
-</center>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/z7-TPk_64pE" frameborder="0" allowfullscreen></iframe>
