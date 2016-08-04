@@ -6,5 +6,7 @@ url: "http://rivalrockets.com"
 twitter_username: kitroed
 github_username:  kitroed
 
+disqus_shortname: rivalrockets
+
 # Build settings
 markdown: kramdown
