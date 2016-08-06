@@ -8,5 +8,7 @@ github_username:  rivalrockets
 
 disqus_shortname: rivalrockets
 
+google_analytics_ua: UA-7052368-1
+
 # Build settings
 markdown: kramdown
