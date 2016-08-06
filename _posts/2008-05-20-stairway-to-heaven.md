@@ -13,26 +13,8 @@ categories:
 ---
 Seems to work quite well in GarrysMod, except for the prop limit...
 
-<!-- see gallery_shortcode() in wp-includes/media.php -->
+![](/content/2008/05/freespace06_v2-10004.jpg)
 
-<div id='gallery-1' class='gallery galleryid-117 gallery-columns-3 gallery-size-thumbnail'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon'>
-      <a href='http://localhost/blog/2008/05/stairway-to-heaven/freespace06_v2-10004/' title='freespace06_v2-10004'><img width="180" height="180" src="http://localhost/blog/wp-content/uploads/2008/05/freespace06_v2-10004-180x180.jpg" class="attachment-thumbnail" alt="freespace06_v2-10004" title="freespace06_v2-10004" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon'>
-      <a href='http://localhost/blog/2008/05/stairway-to-heaven/freespace06_v2-10001/' title='freespace06_v2-10001'><img width="180" height="180" src="http://localhost/blog/wp-content/uploads/2008/05/freespace06_v2-10001-180x180.jpg" class="attachment-thumbnail" alt="freespace06_v2-10001" title="freespace06_v2-10001" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon'>
-      <a href='http://localhost/blog/2008/05/stairway-to-heaven/freespace06_v2-10003/' title='freespace06_v2-10003'><img width="180" height="180" src="http://localhost/blog/wp-content/uploads/2008/05/freespace06_v2-10003-180x180.jpg" class="attachment-thumbnail" alt="freespace06_v2-10003" title="freespace06_v2-10003" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" /> <br style='clear: both;' />
-</div>
+![](/content/2008/05/freespace06_v2-10001.jpg)
+
+![](/content/2008/05/freespace06_v2-10003.jpg)
